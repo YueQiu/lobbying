@@ -1,0 +1,2015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="595px"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css" viewBox="-1724 -1739 3442 3475" height="600px"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 970.598755,-1406.493164 C 915.807678,-1221.252930 555.760803,-1025.579346 370.520569,-1080.370361"
+              class="Hoyer, Steny H (D-MD) Labor" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 658.258423,-1248.636719 C 634.364136,-1157.435791 461.721405,-1056.476074 370.520569,-1080.370361"
+              class="Israel, Steve (D-NY) Labor" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 407.194672,-1683.719116 C 520.529602,-1555.714478 498.525146,-1193.705322 370.520569,-1080.370361"
+              class="Kirkpatrick, Ann (D-AZ) Labor" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1344.664185,1049.155518 C 1146.337280,1230.723145 576.495483,1205.584106 394.927826,1007.257202"
+              class="Latham, Tom (R-IA) Agriculture" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 960.511169,1005.241028 C 847.797791,1118.760986 508.447723,1119.970581 394.927826,1007.257202"
+              class="Lucas, Frank D (R-OK) Agriculture" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1074.601807,443.252686 C 955.308960,324.413177 954.629028,-32.785332 1073.468506,-152.078171"
+              class="Moran, Jim (D-VA) Defense" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 654.800415,1571.073486 C 490.062683,1510.284668 334.139099,1171.994995 394.927826,1007.257202"
+              class="Noem, Kristi (R-SD) Agriculture" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 731.854187,1185.184448 C 628.883484,1216.984253 426.727661,1110.227905 394.927826,1007.257202"
+              class="Nunes, Devin (R-CA) Agriculture" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1215.899536,-1214.666992 C 1073.683105,-1018.731812 566.455688,-938.153931 370.520569,-1080.370361"
+              class="Pelosi, Nancy (D-CA) Labor" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 37.674568,1718.661377 C -33.155617,1504.929810 181.196335,1078.087402 394.927826,1007.257202"
+              class="Peterson, Collin (D-MN) Agriculture" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1701.446777,237.173248 C -1587.471924,59.422455 -1149.883545,-36.241516 -972.132751,77.733307"
+              class="Price, Tom (R-GA) Healthcare" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 631.608337,-908.734802 C 545.063721,-890.844360 388.411011,-993.825684 370.520569,-1080.370361"
+              class="Rahall, Nick (D-WV) Labor" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 631.608337,-908.734802 C 682.774414,-762.476074 540.135437,-466.338745 393.876678,-415.172668"
+              class="Rahall, Nick (D-WV) Transportation" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1651.738770,485.276855 C 1408.613647,473.459900 1061.651489,91.046906 1073.468506,-152.078171"
+              class="Reed, Jack (D-RI) Defense" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1394.875366,-49.902119 C 1310.158813,-6.055954 1117.314697,-67.361588 1073.468506,-152.078171"
+              class="Ruppersberger, Dutch (D-MD) Defense" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 915.129578,1439.296997 C 724.681274,1456.929443 412.560242,1197.705566 394.927826,1007.257202"
+              class="Simpson, Mike (R-ID) Agriculture" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1701.281006,-114.239983 C 1568.150879,3.754883 1191.463379,-18.948029 1073.468506,-152.078171"
+              class="Smith, Adam (D-WA) Defense" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1351.965820,549.535339 C 1155.943604,464.912109 988.845276,43.944004 1073.468506,-152.078171"
+              class="Thornberry, Mac (R-TX) Defense" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 386.314270,-1393.375854 C 445.756622,-1327.616089 436.280426,-1139.812744 370.520569,-1080.370361"
+              class="Tierney, John F (D-MA) Labor" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1122.981323,342.621399 C -1011.301697,212.922363 -649.233765,185.893250 -519.534729,297.572876"
+              class="Toomey, Pat (R-PA) Business" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1122.981323,342.621399 C -1094.810791,179.817810 -808.349609,-22.131821 -645.546021,6.038705"
+              class="Toomey, Pat (R-PA) Finance" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1335.362183,-496.278381 C -1147.913940,-454.121948 -929.976318,-109.714920 -972.132751,77.733307"
+              class="Upton, Fred (R-MI) Healthcare" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1335.362183,-496.278381 C -1193.158203,-630.290894 -778.833679,-618.003967 -644.821106,-475.800079"
+              class="Upton, Fred (R-MI) Energy" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1143.439941,1261.603516 C 942.868286,1360.436646 493.760986,1207.828857 394.927826,1007.257202"
+              class="Valadao, David (R-CA) Agriculture" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1696.823730,180.316223 C 1505.673828,238.508392 1131.660645,39.071762 1073.468506,-152.078171"
+              class="Visclosky, Pete (D-IN) Defense" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1418.878174,-958.946106 C -1167.437622,-1017.128296 -703.003296,-727.240662 -644.821106,-475.800079"
+              class="Vitter, David (R-LA) Energy" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -390.034088,1347.096191 C -482.020050,1198.516479 -397.129425,837.668030 -248.549728,745.682068"
+              class="Walden, Greg (R-OR) Communications/Electronics"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -563.577698,1611.931519 C -673.822021,1375.676025 -484.805237,855.926331 -248.549728,745.682068"
+              class="Waxman, Henry (D-CA) Communications/Electronics"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -469.240692,-1314.918823 C -336.533020,-1111.979004 -441.881256,-608.507751 -644.821106,-475.800079"
+              class="Whitfield, Ed (R-KY) Energy" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 899.840637,-730.288513 C 861.671021,-566.072510 558.092651,-377.003052 393.876678,-415.172668"
+              class="Williams, Roger (R-TX) Transportation" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1261.594971,-620.315247 C 1317.617188,-489.042542 1204.741211,-208.100296 1073.468506,-152.078171"
+              class="Wittman, Rob (R-VA) Defense" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1000.171387,-1381.330078 C -736.275269,-1351.090698 -385.790161,-909.887451 -416.029510,-645.991333"
+              class="Yoder, Kevin (R-KS) Construction" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -878.864197,-693.212708 C -743.328674,-520.369812 -799.289856,-57.802193 -972.132751,77.733307"
+              class="Alexander, Lamar (R-TN) Healthcare" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -878.864197,-693.212708 C -608.841187,-566.921509 -393.243530,27.549881 -519.534729,297.572876"
+              class="Alexander, Lamar (R-TN) Business" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -878.864197,-693.212708 C -776.852966,-776.335388 -499.152161,-748.002563 -416.029510,-645.991333"
+              class="Alexander, Lamar (R-TN) Construction" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 134.372986,-277.461121 C 262.417053,3.752060 32.663452,617.638000 -248.549728,745.682068"
+              class="Begich, Mark (D-AK) Communications/Electronics"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 134.372986,-277.461121 C -61.133629,-161.290085 -528.650085,-280.293457 -644.821106,-475.800079"
+              class="Begich, Mark (D-AK) Energy" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 134.372986,-277.461121 C 290.086243,-175.196503 370.259186,211.770325 267.994568,367.483582"
+              class="Begich, Mark (D-AK) Lawyers/Lobbyists" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 134.372986,-277.461121 C 21.020660,-485.272491 162.709198,-967.018005 370.520569,-1080.370361"
+              class="Begich, Mark (D-AK) Labor" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 134.372986,-277.461121 C 198.760406,-143.858032 94.936905,153.127731 -38.666191,217.515152"
+              class="Begich, Mark (D-AK) Single Issue" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 116.424065,-1658.262695 C 282.821838,-1593.503540 435.279724,-1246.768188 370.520569,-1080.370361"
+              class="Bishop, Timothy H (D-NY) Labor" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 189.174698,36.509575 C -34.842060,277.015839 -731.626465,301.750061 -972.132751,77.733307"
+              class="Boehner, John (R-OH) Healthcare" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 189.174698,36.509575 C 99.645477,230.464111 -325.580200,387.102112 -519.534729,297.572876"
+              class="Boehner, John (R-OH) Business" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 189.174698,36.509575 C -68.366348,21.050224 -431.488831,-388.450317 -416.029510,-645.991333"
+              class="Boehner, John (R-OH) Construction" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 189.174698,36.509575 C 243.464325,265.888977 -19.170349,691.392395 -248.549728,745.682068"
+              class="Boehner, John (R-OH) Communications/Electronics"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 189.174698,36.509575 C -80.086395,100.846809 -580.483887,-206.538971 -644.821106,-475.800079"
+              class="Boehner, John (R-OH) Energy" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 189.174698,36.509575 C 271.133484,86.940399 318.425385,285.524811 267.994568,367.483582"
+              class="Boehner, John (R-OH) Lawyers/Lobbyists"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 189.174698,36.509575 C 424.474854,189.508453 547.926697,771.957031 394.927826,1007.257202"
+              class="Boehner, John (R-OH) Agriculture" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 189.174698,36.509575 C 16.136372,197.359558 -484.696045,179.077026 -645.546021,6.038705"
+              class="Boehner, John (R-OH) Finance" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 189.174698,36.509575 C 328.315887,-178.066742 858.892212,-291.219391 1073.468506,-152.078171"
+              class="Boehner, John (R-OH) Defense" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 189.174698,36.509575 C 139.778656,-94.767273 262.599823,-365.776611 393.876678,-415.172668"
+              class="Boehner, John (R-OH) Transportation" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 189.174698,36.509575 C 155.909866,299.154968 -287.955444,643.225891 -550.600891,609.961060"
+              class="Boehner, John (R-OH) Other" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -800.617126,337.855896 C -886.944763,320.134521 -989.854187,164.060959 -972.132751,77.733307"
+              class="Booker, Cory (D-NJ) Healthcare" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -800.617126,337.855896 C -752.457214,273.582794 -583.807800,249.412994 -519.534729,297.572876"
+              class="Booker, Cory (D-NJ) Business" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -800.617126,337.855896 C -920.469055,64.168915 -689.716492,-526.139404 -416.029510,-645.991333"
+              class="Booker, Cory (D-NJ) Construction" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -800.617126,337.855896 C -608.638367,309.007660 -277.397949,553.703369 -248.549728,745.682068"
+              class="Booker, Cory (D-NJ) Communications/Electronics"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -800.617126,337.855896 C -580.969238,130.059097 60.197769,147.835709 267.994568,367.483582"
+              class="Booker, Cory (D-NJ) Lawyers/Lobbyists" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -800.617126,337.855896 C -672.295105,161.397568 -215.124512,89.193115 -38.666191,217.515152"
+              class="Booker, Cory (D-NJ) Single Issue" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -800.617126,337.855896 C -835.966370,240.478241 -742.923706,41.387924 -645.546021,6.038705"
+              class="Booker, Cory (D-NJ) Finance" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -800.617126,337.855896 C -696.192871,342.273682 -546.183105,505.536804 -550.600891,609.961060"
+              class="Booker, Cory (D-NJ) Other" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 734.232727,-281.291565 C 770.740112,-58.288918 490.997192,330.976196 267.994568,367.483582"
+              class="Braley, Bruce (D-IA) Lawyers/Lobbyists"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 734.232727,-281.291565 C 501.674530,-368.364899 283.447235,-847.812134 370.520569,-1080.370361"
+              class="Braley, Bruce (D-IA) Labor" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 734.232727,-281.291565 C 679.414307,-26.950424 215.674942,272.333588 -38.666191,217.515152"
+              class="Braley, Bruce (D-IA) Single Issue" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -810.923401,-228.534363 C -781.911743,-135.038940 -878.637329,48.721642 -972.132751,77.733307"
+              class="Cantor, Eric (R-VA) Healthcare" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -810.923401,-228.534363 C -647.424255,-181.590652 -472.591003,134.073685 -519.534729,297.572876"
+              class="Cantor, Eric (R-VA) Business" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -810.923401,-228.534363 C -503.605377,-146.165802 -166.181183,438.364014 -248.549728,745.682068"
+              class="Cantor, Eric (R-VA) Communications/Electronics"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -810.923401,-228.534363 C -827.156067,-311.207947 -727.494690,-459.567383 -644.821106,-475.800079"
+              class="Cantor, Eric (R-VA) Energy" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -810.923401,-228.534363 C -730.933289,-214.695221 -631.706909,-73.951385 -645.546021,6.038705"
+              class="Cantor, Eric (R-VA) Finance" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -810.923401,-228.534363 C -607.291016,-506.822052 115.588989,-618.805054 393.876678,-415.172668"
+              class="Cantor, Eric (R-VA) Transportation" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1032.734497,-448.917450 C -948.808289,-611.673218 -578.785278,-729.917542 -416.029510,-645.991333"
+              class="Capito, Shelley Moore (R-WV) Construction"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1032.734497,-448.917450 C -960.528320,-531.876648 -727.780334,-548.006226 -644.821106,-475.800079"
+              class="Capito, Shelley Moore (R-WV) Energy" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1032.734497,-448.917450 C -864.305603,-435.363892 -631.992493,-162.390228 -645.546021,6.038705"
+              class="Capito, Shelley Moore (R-WV) Finance" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1032.734497,-448.917450 C -724.532043,-333.568481 -435.251892,301.758636 -550.600891,609.961060"
+              class="Capito, Shelley Moore (R-WV) Other" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -661.467957,-873.678955 C -533.318481,-621.263550 -719.717285,-50.416183 -972.132751,77.733307"
+              class="Cassidy, Bill (R-LA) Healthcare" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -661.467957,-873.678955 C -566.842712,-877.229126 -419.579651,-740.616577 -416.029510,-645.991333"
+              class="Cassidy, Bill (R-LA) Construction" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -661.467957,-873.678955 C -578.562866,-797.432495 -568.574707,-558.705200 -644.821106,-475.800079"
+              class="Cassidy, Bill (R-LA) Energy" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -661.467957,-873.678955 C -358.697784,-993.046570 274.509033,-717.942871 393.876678,-415.172668"
+              class="Cassidy, Bill (R-LA) Transportation" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1162.331543,793.264343 C 1051.649414,989.543640 591.207153,1117.939331 394.927826,1007.257202"
+              class="Cochran, Thad (R-MS) Agriculture" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -826.606201,1484.325562 C -946.278076,1254.251587 -780.674805,729.632935 -550.600891,609.961060"
+              class="Coffman, Mike (R-CO) Other" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -644.509827,1220.836304 C -724.005371,899.003357 -360.499146,297.010651 -38.666191,217.515152"
+              class="Collins, Susan M (R-ME) Single Issue" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -644.509827,1220.836304 C -747.903076,1079.879517 -691.557739,713.354309 -550.600891,609.961060"
+              class="Collins, Susan M (R-ME) Other" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1145.190918,-900.230347 C 954.228821,-781.324280 489.426636,-889.408325 370.520569,-1080.370361"
+              class="Connolly, Gerry (D-VA) Labor" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1145.190918,-900.230347 C 1280.476807,-736.255432 1237.443359,-287.364136 1073.468506,-152.078171"
+              class="Connolly, Gerry (D-VA) Defense" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1708.167114,-59.435719 C -1533.526367,-179.208801 -1091.905762,-96.907379 -972.132751,77.733307"
+              class="Brady, Kevin (R-TX) Healthcare" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -183.600601,-1430.891235 C -2.672188,-1471.611328 329.800537,-1261.298706 370.520569,-1080.370361"
+              class="Bustos, Cheri (D-IL) Labor" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1267.035278,627.616943 C -1318.031494,458.659698 -1141.089966,128.729553 -972.132751,77.733307"
+              class="Camp, Dave (R-MI) Healthcare" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1267.035278,627.616943 C -1183.543945,412.108032 -735.043640,214.081589 -519.534729,297.572876"
+              class="Camp, Dave (R-MI) Business" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 372.122345,1683.952759 C 241.344330,1544.052490 255.027618,1138.035156 394.927826,1007.257202"
+              class="Conaway, Mike (R-TX) Agriculture" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 563.710999,532.576538 C 443.879944,737.649780 -43.476475,865.513123 -248.549728,745.682068"
+              class="Coons, Chris (D-DE) Communications/Electronics"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 563.710999,532.576538 C 471.549133,558.701233 294.119263,459.645447 267.994568,367.483582"
+              class="Coons, Chris (D-DE) Lawyers/Lobbyists" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 30.313507,543.618835 C -263.352844,650.930969 -864.820618,371.399658 -972.132751,77.733307"
+              class="Cornyn, John (R-TX) Healthcare" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 30.313507,543.618835 C -128.865341,604.379272 -458.774261,456.751740 -519.534729,297.572876"
+              class="Cornyn, John (R-TX) Business" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 30.313507,543.618835 C -296.877136,394.965393 -564.682983,-318.800720 -416.029510,-645.991333"
+              class="Cornyn, John (R-TX) Construction" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 30.313507,543.618835 C 14.953510,639.804138 -152.364441,761.042053 -248.549728,745.682068"
+              class="Cornyn, John (R-TX) Communications/Electronics"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 30.313507,543.618835 C -308.597229,474.761963 -713.677979,-136.889359 -644.821106,-475.800079"
+              class="Cornyn, John (R-TX) Energy" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 30.313507,543.618835 C 42.622665,460.855560 185.231308,355.174408 267.994568,367.483582"
+              class="Cornyn, John (R-TX) Lawyers/Lobbyists" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 30.313507,543.618835 C -48.703175,492.194031 -90.090988,296.531830 -38.666191,217.515152"
+              class="Cornyn, John (R-TX) Single Issue" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 30.313507,543.618835 C 195.964050,563.423645 414.732666,841.606689 394.927826,1007.257202"
+              class="Cornyn, John (R-TX) Agriculture" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 30.313507,543.618835 C -212.374435,571.274658 -617.890137,248.726654 -645.546021,6.038705"
+              class="Cornyn, John (R-TX) Finance" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 30.313507,543.618835 C 99.805115,195.848419 725.698120,-221.569778 1073.468506,-152.078171"
+              class="Cornyn, John (R-TX) Defense" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 30.313507,543.618835 C -88.732155,279.147888 129.405731,-296.127014 393.876678,-415.172668"
+              class="Cornyn, John (R-TX) Transportation" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 30.313507,543.618835 C -72.600929,673.070129 -421.149567,712.875488 -550.600891,609.961060"
+              class="Cornyn, John (R-TX) Other" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -409.857971,-999.388000 C -340.412964,-927.474365 -344.115845,-715.436340 -416.029510,-645.991333"
+              class="Cotton, Tom (R-AR) Construction" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -409.857971,-999.388000 C -352.132996,-847.677795 -493.110901,-533.525024 -644.821106,-475.800079"
+              class="Cotton, Tom (R-AR) Energy" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -409.857971,-999.388000 C -92.238983,-830.245667 130.476105,-100.103851 -38.666191,217.515152"
+              class="Cotton, Tom (R-AR) Single Issue" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -409.857971,-999.388000 C -255.910233,-751.165039 -397.323059,-147.909027 -645.546021,6.038705"
+              class="Cotton, Tom (R-AR) Finance" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1388.266968,245.111679 C 1245.869263,228.633392 1056.990234,-9.680504 1073.468506,-152.078171"
+              class="Courtney, Joe (D-CT) Defense" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1564.727051,-691.191895 C -1241.444824,-735.581970 -689.936096,-317.243591 -645.546021,6.038705"
+              class="Crowley, Joseph (D-NY) Finance" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -152.453156,-788.801575 C -176.606384,-707.524231 -334.752197,-621.838135 -416.029510,-645.991333"
+              class="Daines, Steven (R-MT) Construction" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -152.453156,-788.801575 C -188.326447,-627.727722 -483.747223,-439.926819 -644.821106,-475.800079"
+              class="Daines, Steven (R-MT) Energy" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -152.453156,-788.801575 C 31.538597,-823.341797 359.336487,-599.164429 393.876678,-415.172668"
+              class="Daines, Steven (R-MT) Transportation" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1087.322266,140.370789 C 968.879272,349.658875 477.282654,485.926575 267.994568,367.483582"
+              class="Durbin, Dick (D-IL) Lawyers/Lobbyists" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1087.322266,140.370789 C 1026.061768,84.651749 1017.749451,-90.817627 1073.468506,-152.078171"
+              class="Durbin, Dick (D-IL) Defense" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1091.111206,1334.441895 C -1127.905273,1081.443726 -803.599121,646.755188 -550.600891,609.961060"
+              class="Foster, Bill (D-IL) Other" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 49.849152,856.352234 C -175.783508,858.473145 -517.413818,523.205505 -519.534729,297.572876"
+              class="Franken, Al (D-MN) Business" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 49.849152,856.352234 C -31.964655,893.897949 -211.003998,827.495850 -248.549728,745.682068"
+              class="Franken, Al (D-MN) Communications/Electronics"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 49.849152,856.352234 C -4.295494,714.949402 126.591743,421.628235 267.994568,367.483582"
+              class="Franken, Al (D-MN) Lawyers/Lobbyists" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 49.849152,856.352234 C -95.621346,746.287903 -148.730545,362.985657 -38.666191,217.515152"
+              class="Franken, Al (D-MN) Single Issue" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 49.849152,856.352234 C -119.519096,927.164001 -479.789093,779.329346 -550.600891,609.961060"
+              class="Franken, Al (D-MN) Other" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1475.810791,859.909973 C -1531.510498,602.739014 -1229.303711,133.433029 -972.132751,77.733307"
+              class="Burgess, Michael (R-TX) Healthcare" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 472.491180,1313.879395 C 395.654083,1268.067627 349.116058,1084.094360 394.927826,1007.257202"
+              class="Costa, Jim (D-CA) Agriculture" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 105.705162,-1315.278564 C 205.649887,-1321.260010 364.539124,-1180.315186 370.520569,-1080.370361"
+              class="DeLauro, Rosa L (D-CT) Labor" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 783.670471,15.197412 C 904.333862,291.357910 671.088318,886.593750 394.927826,1007.257202"
+              class="Denham, Jeff (R-CA) Agriculture" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 783.670471,15.197412 C 619.637695,7.082146 385.761414,-251.139877 393.876678,-415.172668"
+              class="Denham, Jeff (R-CA) Transportation" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -103.359863,1409.680176 C -265.197449,1305.918579 -352.311371,907.519653 -248.549728,745.682068"
+              class="Eshoo, Anna (D-CA) Communications/Electronics"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1565.927856,-677.381592 C 1572.496704,-473.829041 1277.020996,-158.646988 1073.468506,-152.078171"
+              class="Forbes, Randy (R-VA) Defense" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 498.820374,187.339767 C 317.195984,413.057404 -293.817078,479.197266 -519.534729,297.572876"
+              class="Graham, Lindsey (R-SC) Business" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 498.820374,187.339767 C 149.184189,203.643524 -399.725769,-296.355164 -416.029510,-645.991333"
+              class="Graham, Lindsey (R-SC) Construction" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 498.820374,187.339767 C 488.683960,269.533691 350.188477,377.619995 267.994568,367.483582"
+              class="Graham, Lindsey (R-SC) Lawyers/Lobbyists"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 498.820374,187.339767 C 397.358124,300.872162 74.866203,318.977386 -38.666191,217.515152"
+              class="Graham, Lindsey (R-SC) Single Issue" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 498.820374,187.339767 C 233.686874,379.952850 -452.932953,271.172211 -645.546021,6.038705"
+              class="Graham, Lindsey (R-SC) Finance" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 498.820374,187.339767 C 545.866394,4.526566 890.655273,-199.124207 1073.468506,-152.078171"
+              class="Graham, Lindsey (R-SC) Defense" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 498.820374,187.339767 C 357.329132,87.826012 294.362915,-273.681427 393.876678,-415.172668"
+              class="Graham, Lindsey (R-SC) Transportation" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 498.820374,187.339767 C 373.460358,481.748291 -256.192352,735.321106 -550.600891,609.961060"
+              class="Graham, Lindsey (R-SC) Other" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -457.165894,965.908569 C -737.794312,891.266846 -1046.774414,358.361755 -972.132751,77.733307"
+              class="Hagan, Kay R (D-NC) Healthcare" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -457.165894,965.908569 C -603.306763,844.715210 -640.728149,443.713776 -519.534729,297.572876"
+              class="Hagan, Kay R (D-NC) Business" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -457.165894,965.908569 C -459.487976,880.140076 -334.318237,748.004150 -248.549728,745.682068"
+              class="Hagan, Kay R (D-NC) Communications/Electronics"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -457.165894,965.908569 C -431.818787,701.191467 3.277481,342.136475 267.994568,367.483582"
+              class="Hagan, Kay R (D-NC) Lawyers/Lobbyists" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -457.165894,965.908569 C -523.144653,732.529907 -272.044830,283.493896 -38.666191,217.515152"
+              class="Hagan, Kay R (D-NC) Single Issue" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -457.165894,965.908569 C -278.477417,803.759521 232.778809,828.568726 394.927826,1007.257202"
+              class="Hagan, Kay R (D-NC) Agriculture" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -457.165894,965.908569 C -686.815918,811.610596 -799.843994,235.688705 -645.546021,6.038705"
+              class="Hagan, Kay R (D-NC) Finance" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -457.165894,965.908569 C -547.042419,913.406067 -603.103394,699.837585 -550.600891,609.961060"
+              class="Hagan, Kay R (D-NC) Other" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -737.614197,-1192.966919 C -563.902100,-1147.888672 -370.951324,-819.703430 -416.029510,-645.991333"
+              class="Hanabusa, Colleen (D-HI) Construction" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1187.550659,-773.800903 C -923.181885,-726.233948 -597.979004,-258.330139 -645.546021,6.038705"
+              class="Hensarling, Jeb (R-TX) Finance" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -912.763977,1103.081665 C -938.955505,932.024902 -721.657654,636.152588 -550.600891,609.961060"
+              class="Holt, Rush (D-NJ) Other" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 356.668396,-741.241089 C 221.178787,-567.651611 -242.439972,-510.501709 -416.029510,-645.991333"
+              class="Inhofe, James M (R-OK) Construction" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 356.668396,-741.241089 C 209.458710,-487.854980 -391.434998,-328.590393 -644.821106,-475.800079"
+              class="Inhofe, James M (R-OK) Energy" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 356.668396,-741.241089 C 617.860962,-766.768555 1047.941162,-413.270782 1073.468506,-152.078171"
+              class="Inhofe, James M (R-OK) Defense" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 356.668396,-741.241089 C 429.323730,-683.469055 451.648712,-487.828003 393.876678,-415.172668"
+              class="Inhofe, James M (R-OK) Transportation" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -438.205963,-246.809860 C -345.595154,-121.667564 -394.392426,204.962067 -519.534729,297.572876"
+              class="Landrieu, Mary L (D-LA) Business" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -438.205963,-246.809860 C -513.606934,-331.081451 -500.301117,-570.590332 -416.029510,-645.991333"
+              class="Landrieu, Mary L (D-LA) Construction" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -438.205963,-246.809860 C -525.327026,-251.284882 -649.296082,-388.679016 -644.821106,-475.800079"
+              class="Landrieu, Mary L (D-LA) Energy" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -438.205963,-246.809860 C -174.107147,-265.191284 249.613159,103.384766 267.994568,367.483582"
+              class="Landrieu, Mary L (D-LA) Lawyers/Lobbyists"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -438.205963,-246.809860 C -265.432983,-233.852814 -25.709137,44.742195 -38.666191,217.515152"
+              class="Landrieu, Mary L (D-LA) Single Issue" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -438.205963,-246.809860 C -289.330750,-52.976685 -356.767700,461.085846 -550.600891,609.961060"
+              class="Landrieu, Mary L (D-LA) Other" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 128.196533,1150.960815 C 152.802063,1068.873779 312.840851,982.651672 394.927826,1007.257202"
+              class="Davis, Rodney (R-IL) Agriculture" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 703.980835,-1560.358521 C 733.286377,-1397.668823 533.210266,-1109.676025 370.520569,-1080.370361"
+              class="Duckworth, Tammy (D-IL) Labor" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1434.981323,-956.695129 C 1523.602051,-723.469177 1306.694580,-240.699020 1073.468506,-152.078171"
+              class="Frelinghuysen, Rodney (R-NJ) Defense" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1679.335449,-394.574799 C -1443.433228,-441.553711 -1019.111633,-158.168854 -972.132751,77.733307"
+              class="Gingrey, Phil (R-GA) Healthcare" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -272.123901,1686.325073 C -455.537659,1493.481689 -441.393158,929.095825 -248.549728,745.682068"
+              class="Goodlatte, Bob (R-VA) Communications/Electronics"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1000.913086,-442.101837 C 884.891663,-315.308716 520.669800,-299.151215 393.876678,-415.172668"
+              class="Graves, Sam (R-MO) Transportation" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -981.339417,-1012.537598 C -806.688232,-972.493713 -604.777222,-650.451233 -644.821106,-475.800079"
+              class="Johnson, Bill (R-OH) Energy" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1300.534668,1106.083984 C -1249.772461,856.872620 -799.812256,559.198914 -550.600891,609.961060"
+              class="Kline, John (R-MN) Other" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -143.644989,-1127.148804 C -101.890404,-976.440430 -265.321106,-687.745911 -416.029510,-645.991333"
+              class="Lynch, Stephen F (D-MA) Construction" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -143.644989,-1127.148804 C -31.456194,-1220.626221 277.043152,-1192.559204 370.520569,-1080.370361"
+              class="Lynch, Stephen F (D-MA) Labor" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -117.697220,-130.276459 C -246.982361,82.212593 -759.643738,207.018463 -972.132751,77.733307"
+              class="Markey, Ed (D-MA) Healthcare" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -117.697220,-130.276459 C -112.494858,35.660919 -353.597351,292.370514 -519.534729,297.572876"
+              class="Markey, Ed (D-MA) Business" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -117.697220,-130.276459 C -280.506653,-173.752975 -459.506042,-483.181946 -416.029510,-645.991333"
+              class="Markey, Ed (D-MA) Construction" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -117.697220,-130.276459 C 31.323990,71.085754 -47.187515,596.660828 -248.549728,745.682068"
+              class="Markey, Ed (D-MA) Communications/Electronics"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -117.697220,-130.276459 C 58.993149,-107.862808 290.408203,190.793213 267.994568,367.483582"
+              class="Markey, Ed (D-MA) Lawyers/Lobbyists" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -117.697220,-130.276459 C -210.072433,-417.938782 82.858246,-987.995117 370.520569,-1080.370361"
+              class="Markey, Ed (D-MA) Labor" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -117.697220,-130.276459 C -32.332687,-76.524338 15.085930,132.150604 -38.666191,217.515152"
+              class="Markey, Ed (D-MA) Single Issue" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -117.697220,-130.276459 C -196.003952,2.556335 -512.713196,84.345436 -645.546021,6.038705"
+              class="Markey, Ed (D-MA) Finance" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -117.697220,-130.276459 C -56.230438,104.351791 -315.972626,548.494263 -550.600891,609.961060"
+              class="Markey, Ed (D-MA) Other" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -915.232727,609.545410 C -1032.975098,514.562988 -1067.115234,195.475739 -972.132751,77.733307"
+              class="McCarthy, Kevin (R-CA) Healthcare" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -915.232727,609.545410 C -898.487671,468.011292 -661.068848,280.827759 -519.534729,297.572876"
+              class="McCarthy, Kevin (R-CA) Business" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -915.232727,609.545410 C -754.668762,503.436157 -354.659027,585.118103 -248.549728,745.682068"
+              class="McCarthy, Kevin (R-CA) Communications/Electronics"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -915.232727,609.545410 C -1078.219482,338.393982 -915.972534,-312.813324 -644.821106,-475.800079"
+              class="McCarthy, Kevin (R-CA) Energy" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -915.232727,609.545410 C -573.658264,427.055664 212.438080,665.682739 394.927826,1007.257202"
+              class="McCarthy, Kevin (R-CA) Agriculture" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -915.232727,609.545410 C -981.996765,434.906708 -820.184692,72.802704 -645.546021,6.038705"
+              class="McCarthy, Kevin (R-CA) Finance" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -257.459351,434.578979 C -471.763184,506.144531 -900.567200,292.037140 -972.132751,77.733307"
+              class="McConnell, Mitch (R-KY) Healthcare" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -257.459351,434.578979 C -337.275635,459.592834 -494.520874,377.389160 -519.534729,297.572876"
+              class="McConnell, Mitch (R-KY) Business" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -257.459351,434.578979 C -505.287415,250.178955 -600.429565,-398.163239 -416.029510,-645.991333"
+              class="McConnell, Mitch (R-KY) Construction" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -257.459351,434.578979 C -193.456818,495.017670 -188.111023,681.679504 -248.549728,745.682068"
+              class="McConnell, Mitch (R-KY) Communications/Electronics"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -257.459351,434.578979 C -517.007507,329.975525 -749.424561,-216.251923 -644.821106,-475.800079"
+              class="McConnell, Mitch (R-KY) Energy" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -257.459351,434.578979 C -165.787643,316.069122 149.484695,275.811859 267.994568,367.483582"
+              class="McConnell, Mitch (R-KY) Lawyers/Lobbyists"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -257.459351,434.578979 C -257.113464,347.407562 -125.837585,217.169281 -38.666191,217.515152"
+              class="McConnell, Mitch (R-KY) Single Issue" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -257.459351,434.578979 C -12.446274,418.637207 378.986023,762.244141 394.927826,1007.257202"
+              class="McConnell, Mitch (R-KY) Agriculture" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -257.459351,434.578979 C -420.784760,426.488251 -653.636780,169.364105 -645.546021,6.038705"
+              class="McConnell, Mitch (R-KY) Finance" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -257.459351,434.578979 C -297.142456,134.361450 93.659134,-375.489563 393.876678,-415.172668"
+              class="McConnell, Mitch (R-KY) Transportation"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -257.459351,434.578979 C -281.011230,528.283691 -456.896179,633.512939 -550.600891,609.961060"
+              class="McConnell, Mitch (R-KY) Other" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 87.795471,-587.389038 C 314.809814,-432.454346 422.929260,140.469238 267.994568,367.483582"
+              class="Peters, Gary (D-MI) Lawyers/Lobbyists" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 87.795471,-587.389038 C 45.744225,-742.530334 215.379303,-1038.319092 370.520569,-1080.370361"
+              class="Peters, Gary (D-MI) Labor" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 87.795471,-587.389038 C 223.483978,-401.115875 147.606979,81.826645 -38.666191,217.515152"
+              class="Peters, Gary (D-MI) Single Issue" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 87.795471,-587.389038 C 59.812721,-322.035187 -380.192169,34.021454 -645.546021,6.038705"
+              class="Peters, Gary (D-MI) Finance" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 87.795471,-587.389038 C 199.586212,-220.239746 -183.451614,498.170288 -550.600891,609.961060"
+              class="Peters, Gary (D-MI) Other" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 201.298019,1442.577881 C 152.959839,1316.787842 269.137726,1055.595337 394.927826,1007.257202"
+              class="Fincher, Steve (R-TN) Agriculture" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -468.012390,-1639.172241 C -188.545410,-1695.118408 314.574341,-1359.837280 370.520569,-1080.370361"
+              class="Garamendi, John (D-CA) Labor" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1654.632690,-399.385376 C 1587.861328,-233.691116 1239.162720,-85.306778 1073.468506,-152.078171"
+              class="Granger, Kay (R-TX) Defense" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1346.387451,-339.387756 C 1329.265625,-247.342056 1165.514160,-134.956299 1073.468506,-152.078171"
+              class="Hunter, Duncan D (R-CA) Defense" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1346.387451,-339.387756 C 1140.728271,-164.042572 569.221863,-209.513519 393.876678,-415.172668"
+              class="Hunter, Duncan D (R-CA) Transportation"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -744.386047,-1532.242554 C -501.464478,-1420.663574 -304.450562,-888.912903 -416.029510,-645.991333"
+              class="Murphy, Patrick E (D-FL) Construction" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1626.115845,583.233521 C -1596.419312,351.336853 -1204.029419,48.036743 -972.132751,77.733307"
+              class="Pallone, Frank Jr (D-NJ) Healthcare" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1227.728882,-1188.324219 C -968.642517,-1162.400879 -618.897827,-734.886475 -644.821106,-475.800079"
+              class="Pompeo, Mike (R-KS) Energy" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1350.592285,80.569153 C -1140.979980,-42.241623 -642.345459,87.960617 -519.534729,297.572876"
+              class="Portman, Rob (R-OH) Business" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1350.592285,80.569153 C -1224.489136,-75.346184 -801.461365,-120.064453 -645.546021,6.038705"
+              class="Portman, Rob (R-OH) Finance" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 461.016388,-114.644234 C 347.349579,163.909409 -240.981079,411.239685 -519.534729,297.572876"
+              class="Pryor, Mark (D-AR) Business" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 461.016388,-114.644234 C 491.168396,199.334259 65.428757,715.530029 -248.549728,745.682068"
+              class="Pryor, Mark (D-AR) Communications/Electronics"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 461.016388,-114.644234 C 167.617706,34.292114 -495.884766,-182.401398 -644.821106,-475.800079"
+              class="Pryor, Mark (D-AR) Energy" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 461.016388,-114.644234 C 518.837585,20.385700 403.024506,309.662384 267.994568,367.483582"
+              class="Pryor, Mark (D-AR) Lawyers/Lobbyists" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 461.016388,-114.644234 C 249.772003,-289.690308 195.474487,-869.125916 370.520569,-1080.370361"
+              class="Pryor, Mark (D-AR) Labor" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 461.016388,-114.644234 C 427.511749,51.724159 127.702202,251.019806 -38.666191,217.515152"
+              class="Pryor, Mark (D-AR) Single Issue" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 461.016388,-114.644234 C 672.178955,122.953773 632.525818,796.094604 394.927826,1007.257202"
+              class="Pryor, Mark (D-AR) Agriculture" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 461.016388,-114.644234 C 387.482758,-161.321976 347.198944,-341.639038 393.876678,-415.172668"
+              class="Pryor, Mark (D-AR) Transportation" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 325.572296,706.849731 C 154.857697,681.830505 -63.685417,388.229767 -38.666191,217.515152"
+              class="Roberts, Pat (R-KS) Single Issue" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1140.410400,-164.798813 C -1091.772705,-405.913513 -657.144226,-694.628967 -416.029510,-645.991333"
+              class="Ryan, Paul (R-WI) Construction" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1140.410400,-164.798813 C -1007.270020,-229.604187 -710.351440,-127.101677 -645.546021,6.038705"
+              class="Ryan, Paul (R-WI) Finance" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1140.410400,-164.798813 C -867.496521,-127.808739 -513.610840,337.047180 -550.600891,609.961060"
+              class="Ryan, Paul (R-WI) Other" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 644.292175,-576.252625 C 418.280090,-378.136047 -217.912918,-419.979248 -416.029510,-645.991333"
+              class="Schatz, Brian (D-HI) Construction" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 644.292175,-576.252625 C 757.779907,-312.245850 532.001343,253.995850 267.994568,367.483582"
+              class="Schatz, Brian (D-HI) Lawyers/Lobbyists"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 644.292175,-576.252625 C 626.425049,-493.953522 476.175781,-397.305573 393.876678,-415.172668"
+              class="Schatz, Brian (D-HI) Transportation" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -183.258118,1087.937866 C -264.767609,1032.545044 -303.942566,827.191589 -248.549728,745.682068"
+              class="Shaheen, Jeanne (D-NH) Communications/Electronics"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -183.258118,1087.937866 C -237.098419,853.596497 33.653168,421.323883 267.994568,367.483582"
+              class="Shaheen, Jeanne (D-NH) Lawyers/Lobbyists"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -183.258118,1087.937866 C -328.424286,884.934937 -241.669128,362.681305 -38.666191,217.515152"
+              class="Shaheen, Jeanne (D-NH) Single Issue" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -183.258118,1087.937866 C -352.322052,1065.811035 -572.727661,779.024963 -550.600891,609.961060"
+              class="Shaheen, Jeanne (D-NH) Other" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -165.494202,-1723.020996 C 70.238869,-1701.693848 391.847748,-1316.103516 370.520569,-1080.370361"
+              class="Grimm, Michael (R-NY) Labor" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 864.300354,662.825684 C 839.312134,825.586487 557.688660,1032.245361 394.927826,1007.257202"
+              class="Kingston, Jack (R-GA) Agriculture" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 864.300354,662.825684 C 743.153198,458.011292 868.654114,-30.931026 1073.468506,-152.078171"
+              class="Kingston, Jack (R-GA) Defense" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 864.300354,662.825684 C 554.615967,541.310730 272.361755,-105.488274 393.876678,-415.172668"
+              class="Kingston, Jack (R-GA) Transportation" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 903.559082,-1084.359741 C 797.749207,-976.954163 477.926147,-974.560486 370.520569,-1080.370361"
+              class="LoBiondo, Frank A (R-NJ) Labor" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 903.559082,-1084.359741 C 935.460022,-848.585876 629.650574,-447.073608 393.876678,-415.172668"
+              class="LoBiondo, Frank A (R-NJ) Transportation"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1524.578369,798.887329 C 1244.163330,698.916199 973.497314,128.336914 1073.468506,-152.078171"
+              class="McKeon, Buck (R-CA) Defense" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1433.297974,359.163361 C -1397.350952,210.644318 -1120.651855,41.786278 -972.132751,77.733307"
+              class="Pitts, Joe (R-PA) Healthcare" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1097.893188,869.080750 C -1231.010498,685.659180 -1155.554321,210.850693 -972.132751,77.733307"
+              class="Reid, Harry (D-NV) Healthcare" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1097.893188,869.080750 C -1096.523071,639.107483 -749.507996,296.202759 -519.534729,297.572876"
+              class="Reid, Harry (D-NV) Business" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1097.893188,869.080750 C -952.704285,674.532349 -443.098145,600.493164 -248.549728,745.682068"
+              class="Reid, Harry (D-NV) Communications/Electronics"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1443.840942,-205.658432 C -1292.820923,-243.321716 -1009.796021,-73.286674 -972.132751,77.733307"
+              class="Schumer, Charles E (D-NY) Healthcare" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1443.840942,-205.658432 C -1241.842529,-322.977966 -762.865601,-195.959702 -645.546021,6.038705"
+              class="Schumer, Charles E (D-NY) Finance" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.002167,-438.949066 C -107.804276,-225.538147 -306.123840,216.375000 -519.534729,297.572876"
+              class="Scott, Tim (R-SC) Business" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.002167,-438.949066 C -287.536163,-355.155487 -561.027466,-377.266083 -644.821106,-475.800079"
+              class="Scott, Tim (R-SC) Energy" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.002167,-438.949066 C -27.642120,-337.723419 62.559464,56.155113 -38.666191,217.515152"
+              class="Scott, Tim (R-SC) Single Issue" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.002167,-438.949066 C -191.313385,-258.642731 -465.239685,8.349922 -645.546021,6.038705"
+              class="Scott, Tim (R-SC) Finance" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -189.002167,-438.949066 C -67.671112,-550.769531 282.056183,-536.503723 393.876678,-415.172668"
+              class="Scott, Tim (R-SC) Transportation" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 787.744324,324.059967 C 601.153259,468.033112 105.306953,404.106201 -38.666191,217.515152"
+              class="Sessions, Pete (R-TX) Single Issue" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 109.824951,-946.445007 C 64.744789,-781.183350 -250.767883,-600.911194 -416.029510,-645.991333"
+              class="Shuster, Bill (R-PA) Construction" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 109.824951,-946.445007 C 272.889771,-897.000916 443.320801,-578.237488 393.876678,-415.172668"
+              class="Shuster, Bill (R-PA) Transportation" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -732.522644,850.055481 C -800.421570,696.961365 -672.628845,365.471802 -519.534729,297.572876"
+              class="Udall, Mark (D-CO) Business" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -732.522644,850.055481 C -656.602722,732.386230 -366.218994,669.762207 -248.549728,745.682068"
+              class="Udall, Mark (D-CO) Communications/Electronics"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -732.522644,850.055481 C -980.153442,567.344116 -927.532471,-228.169281 -644.821106,-475.800079"
+              class="Udall, Mark (D-CO) Energy" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -732.522644,850.055481 C -628.933594,553.437622 -28.623268,263.894501 267.994568,367.483582"
+              class="Udall, Mark (D-CO) Lawyers/Lobbyists" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -732.522644,850.055481 C -720.259399,584.776123 -303.945557,205.251923 -38.666191,217.515152"
+              class="Udall, Mark (D-CO) Single Issue" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -732.522644,850.055481 C -744.157166,765.652283 -635.004089,621.595581 -550.600891,609.961060"
+              class="Udall, Mark (D-CO) Other" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 649.969849,864.413513 C 474.188782,841.422607 245.003632,543.264648 267.994568,367.483582"
+              class="Udall, Tom (D-NM) Lawyers/Lobbyists" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 649.969849,864.413513 C 382.862915,872.761047 -30.318657,484.622070 -38.666191,217.515152"
+              class="Udall, Tom (D-NM) Single Issue" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -324.453064,68.114670 C -317.577759,153.022644 -434.626770,290.697571 -519.534729,297.572876"
+              class="Warner, Mark (D-VA) Business" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -324.453064,68.114670 C -173.758911,188.447495 -128.216919,594.987915 -248.549728,745.682068"
+              class="Warner, Mark (D-VA) Communications/Electronics"
+              stroke-opacity="1.0" stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -324.453064,68.114670 C -146.089752,9.498924 209.378815,189.120270 267.994568,367.483582"
+              class="Warner, Mark (D-VA) Lawyers/Lobbyists" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -324.453064,68.114670 C -401.086853,119.918068 -593.742676,82.672485 -645.546021,6.038705"
+              class="Warner, Mark (D-VA) Finance" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -324.453064,68.114670 C -277.444580,-172.208771 153.553253,-462.181152 393.876678,-415.172668"
+              class="Warner, Mark (D-VA) Transportation" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -324.453064,68.114670 C -261.313354,221.713516 -397.002075,546.821350 -550.600891,609.961060"
+              class="Warner, Mark (D-VA) Other" stroke-opacity="1.0"
+              stroke="#7c7c7c"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="970.59875"
+                class="Hoyer, Steny H (D-MD)" cy="-1406.4932" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="658.2584"
+                class="Israel, Steve (D-NY)" cy="-1248.6367" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="407.19467"
+                class="Kirkpatrick, Ann (D-AZ)" cy="-1683.7191" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="1344.6642"
+                class="Latham, Tom (R-IA)" cy="1049.1555" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="960.51117"
+                class="Lucas, Frank D (R-OK)" cy="1005.241" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="1074.6018"
+                class="Moran, Jim (D-VA)" cy="443.2527" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="654.8004"
+                class="Noem, Kristi (R-SD)" cy="1571.0735" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="731.8542"
+                class="Nunes, Devin (R-CA)" cy="1185.1844" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="1215.8995"
+                class="Pelosi, Nancy (D-CA)" cy="-1214.667" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="37.67457"
+                class="Peterson, Collin (D-MN)" cy="1718.6614" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-1701.4468"
+                class="Price, Tom (R-GA)" cy="237.17325" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="23.333334" cx="631.60834"
+                class="Rahall, Nick (D-WV)" cy="-908.7348" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="1651.7388"
+                class="Reed, Jack (D-RI)" cy="485.27686" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="1394.8754"
+                class="Ruppersberger, Dutch (D-MD)" cy="-49.90212"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="915.1296"
+                class="Simpson, Mike (R-ID)" cy="1439.297" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="1701.281"
+                class="Smith, Adam (D-WA)" cy="-114.23998" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="1351.9658"
+                class="Thornberry, Mac (R-TX)" cy="549.53534" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="386.31427"
+                class="Tierney, John F (D-MA)" cy="-1393.3759" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="23.333334" cx="-1122.9813"
+                class="Toomey, Pat (R-PA)" cy="342.6214" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="23.333334" cx="-1335.3622"
+                class="Upton, Fred (R-MI)" cy="-496.27838" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="1143.44"
+                class="Valadao, David (R-CA)" cy="1261.6035" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="1696.8237"
+                class="Visclosky, Pete (D-IN)" cy="180.31622" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-1418.8782"
+                class="Vitter, David (R-LA)" cy="-958.9461" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-390.0341"
+                class="Walden, Greg (R-OR)" cy="1347.0962" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-563.5777"
+                class="Waxman, Henry (D-CA)" cy="1611.9315" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-469.2407"
+                class="Whitfield, Ed (R-KY)" cy="-1314.9188" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="899.84064"
+                class="Williams, Roger (R-TX)" cy="-730.2885" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="1261.595"
+                class="Wittman, Rob (R-VA)" cy="-620.31525" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-1000.1714"
+                class="Yoder, Kevin (R-KS)" cy="-1381.3301" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="30.0" cx="-878.8642"
+                class="Alexander, Lamar (R-TN)" cy="-693.2127" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="43.333332" cx="134.37299"
+                class="Begich, Mark (D-AK)" cy="-277.46112" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="116.424065"
+                class="Bishop, Timothy H (D-NY)" cy="-1658.2627"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="83.333336" cx="189.1747"
+                class="Boehner, John (R-OH)" cy="36.509575" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="63.333336" cx="-800.6171"
+                class="Booker, Cory (D-NJ)" cy="337.8559" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="30.0" cx="734.2327"
+                class="Braley, Bruce (D-IA)" cy="-281.29156" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="50.0" cx="-810.9234"
+                class="Cantor, Eric (R-VA)" cy="-228.53436" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="36.666668" cx="-1032.7345"
+                class="Capito, Shelley Moore (R-WV)" cy="-448.91745"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="36.666668" cx="-661.46796"
+                class="Cassidy, Bill (R-LA)" cy="-873.67896" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="1162.3315"
+                class="Cochran, Thad (R-MS)" cy="793.26434" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-826.6062"
+                class="Coffman, Mike (R-CO)" cy="1484.3256" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="23.333334" cx="-644.5098"
+                class="Collins, Susan M (R-ME)" cy="1220.8363" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="23.333334" cx="1145.1909"
+                class="Connolly, Gerry (D-VA)" cy="-900.23035" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-1708.1671"
+                class="Brady, Kevin (R-TX)" cy="-59.43572" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-183.6006"
+                class="Bustos, Cheri (D-IL)" cy="-1430.8912" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="23.333334" cx="-1267.0353"
+                class="Camp, Dave (R-MI)" cy="627.61694" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="372.12234"
+                class="Conaway, Mike (R-TX)" cy="1683.9528" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="23.333334" cx="563.711"
+                class="Coons, Chris (D-DE)" cy="532.57654" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="90.0" cx="30.313507"
+                class="Cornyn, John (R-TX)" cy="543.61884" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="36.666668" cx="-409.85797"
+                class="Cotton, Tom (R-AR)" cy="-999.388" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="1388.267"
+                class="Courtney, Joe (D-CT)" cy="245.11168" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-1564.727"
+                class="Crowley, Joseph (D-NY)" cy="-691.1919" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="30.0" cx="-152.45316"
+                class="Daines, Steven (R-MT)" cy="-788.8016" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="23.333334" cx="1087.3223"
+                class="Durbin, Dick (D-IL)" cy="140.37079" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-1091.1112"
+                class="Foster, Bill (D-IL)" cy="1334.4419" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="43.333332" cx="49.84915"
+                class="Franken, Al (D-MN)" cy="856.35223" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-1475.8108"
+                class="Burgess, Michael (R-TX)" cy="859.91" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="472.49118"
+                class="Costa, Jim (D-CA)" cy="1313.8794" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="105.70516"
+                class="DeLauro, Rosa L (D-CT)" cy="-1315.2786" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="23.333334" cx="783.6705"
+                class="Denham, Jeff (R-CA)" cy="15.1974125" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-103.35986"
+                class="Eshoo, Anna (D-CA)" cy="1409.6802" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="1565.9279"
+                class="Forbes, Randy (R-VA)" cy="-677.3816" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="63.333336" cx="498.82037"
+                class="Graham, Lindsey (R-SC)" cy="187.33977" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="63.333336" cx="-457.1659"
+                class="Hagan, Kay R (D-NC)" cy="965.90857" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-737.6142"
+                class="Hanabusa, Colleen (D-HI)" cy="-1192.9669"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-1187.5507"
+                class="Hensarling, Jeb (R-TX)" cy="-773.8009" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-912.764"
+                class="Holt, Rush (D-NJ)" cy="1103.0817" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="36.666668" cx="356.6684"
+                class="Inhofe, James M (R-OK)" cy="-741.2411" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="50.0" cx="-438.20596"
+                class="Landrieu, Mary L (D-LA)" cy="-246.80986" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="128.19653"
+                class="Davis, Rodney (R-IL)" cy="1150.9608" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="703.98083"
+                class="Duckworth, Tammy (D-IL)" cy="-1560.3585" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="1434.9813"
+                class="Frelinghuysen, Rodney (R-NJ)" cy="-956.6951"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-1679.3354"
+                class="Gingrey, Phil (R-GA)" cy="-394.5748" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-272.1239"
+                class="Goodlatte, Bob (R-VA)" cy="1686.3251" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="1000.9131"
+                class="Graves, Sam (R-MO)" cy="-442.10184" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-981.3394"
+                class="Johnson, Bill (R-OH)" cy="-1012.5376" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-1300.5347"
+                class="Kline, John (R-MN)" cy="1106.084" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="23.333334" cx="-143.64499"
+                class="Lynch, Stephen F (D-MA)" cy="-1127.1488" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="70.0" cx="-117.69722"
+                class="Markey, Ed (D-MA)" cy="-130.27646" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="50.0" cx="-915.2327"
+                class="McCarthy, Kevin (R-CA)" cy="609.5454" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="83.333336" cx="-257.45935"
+                class="McConnell, Mitch (R-KY)" cy="434.57898" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="43.333332" cx="87.79547"
+                class="Peters, Gary (D-MI)" cy="-587.38904" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="201.29802"
+                class="Fincher, Steve (R-TN)" cy="1442.5779" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-468.0124"
+                class="Garamendi, John (D-CA)" cy="-1639.1722" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="1654.6327"
+                class="Granger, Kay (R-TX)" cy="-399.38538" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="23.333334" cx="1346.3875"
+                class="Hunter, Duncan D (R-CA)" cy="-339.38776" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-744.38605"
+                class="Murphy, Patrick E (D-FL)" cy="-1532.2426"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-1626.1158"
+                class="Pallone, Frank Jr (D-NJ)" cy="583.2335" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-1227.7289"
+                class="Pompeo, Mike (R-KS)" cy="-1188.3242" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="23.333334" cx="-1350.5923"
+                class="Portman, Rob (R-OH)" cy="80.56915" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="63.333336" cx="461.0164"
+                class="Pryor, Mark (D-AR)" cy="-114.64423" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="325.5723"
+                class="Roberts, Pat (R-KS)" cy="706.84973" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="30.0" cx="-1140.4104"
+                class="Ryan, Paul (R-WI)" cy="-164.79881" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="30.0" cx="644.2922"
+                class="Schatz, Brian (D-HI)" cy="-576.2526" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="36.666668" cx="-183.25812"
+                class="Shaheen, Jeanne (D-NH)" cy="1087.9379" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-165.4942"
+                class="Grimm, Michael (R-NY)" cy="-1723.021" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#44b4b4" r="10.0" cx="370.52057"
+                class="Labor" cy="-1080.3704" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="30.0" cx="864.30035"
+                class="Kingston, Jack (R-GA)" cy="662.8257" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#44b4b4" r="10.0" cx="394.92783"
+                class="Agriculture" cy="1007.2572" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="23.333334" cx="903.5591"
+                class="LoBiondo, Frank A (R-NJ)" cy="-1084.3597"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#44b4b4" r="10.0" cx="393.87668"
+                class="Transportation" cy="-415.17267" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="1524.5784"
+                class="McKeon, Buck (R-CA)" cy="798.8873" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#44b4b4" r="10.0" cx="1073.4685"
+                class="Defense" cy="-152.07817" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="-1433.298"
+                class="Pitts, Joe (R-PA)" cy="359.16336" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#44b4b4" r="10.0" cx="-972.13275"
+                class="Healthcare" cy="77.73331" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="30.0" cx="-1097.8932"
+                class="Reid, Harry (D-NV)" cy="869.08075" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#44b4b4" r="10.0" cx="-519.5347"
+                class="Business" cy="297.57288" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="23.333334" cx="-1443.841"
+                class="Schumer, Charles E (D-NY)" cy="-205.65843"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#44b4b4" r="10.0" cx="-645.546"
+                class="Finance" cy="6.0387053" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="43.333332" cx="-189.00217"
+                class="Scott, Tim (R-SC)" cy="-438.94907" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#44b4b4" r="10.0" cx="-644.8211"
+                class="Energy" cy="-475.80008" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="16.666668" cx="787.7443"
+                class="Sessions, Pete (R-TX)" cy="324.05997" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#44b4b4" r="10.0" cx="-38.66619"
+                class="Single Issue" cy="217.51515" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="23.333334" cx="109.82495"
+                class="Shuster, Bill (R-PA)" cy="-946.445" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#44b4b4" r="10.0" cx="-416.0295"
+                class="Construction" cy="-645.99133" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="50.0" cx="-732.52264"
+                class="Udall, Mark (D-CO)" cy="850.0555" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#44b4b4" r="10.0" cx="-248.54973"
+                class="Communications/Electronics" cy="745.68207"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="23.333334" cx="649.96985"
+                class="Udall, Tom (D-NM)" cy="864.4135" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#44b4b4" r="10.0" cx="267.99457"
+                class="Lawyers/Lobbyists" cy="367.48358" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b44444" r="50.0" cx="-324.45306"
+                class="Warner, Mark (D-VA)" cy="68.11467" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#44b4b4" r="10.0" cx="-550.6009"
+                class="Other" cy="609.96106" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="22" x="970.59875" y="-1401.3298" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Hoyer, Steny H (D-MD)">
+            Hoyer, Steny H (D-MD) -
+        </text>
+        <text font-size="22" x="658.2584" y="-1243.4734" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Israel, Steve (D-NY)">
+            Israel, Steve (D-NY) -
+        </text>
+        <text font-size="22" x="407.19467" y="-1678.5557" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Kirkpatrick, Ann (D-AZ)">
+            Kirkpatrick, Ann (D-AZ) -
+        </text>
+        <text font-size="22" x="1344.6642" y="1054.3188" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Latham, Tom (R-IA)">
+            Latham, Tom (R-IA) -
+        </text>
+        <text font-size="22" x="960.51117" y="1010.40625" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Lucas, Frank D (R-OK)">
+            Lucas, Frank D (R-OK) -
+        </text>
+        <text font-size="22" x="1074.6018" y="448.41608" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Moran, Jim (D-VA)">
+            Moran, Jim (D-VA) -
+        </text>
+        <text font-size="22" x="654.8004" y="1576.2368" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Noem, Kristi (R-SD)">
+            Noem, Kristi (R-SD) -
+        </text>
+        <text font-size="22" x="731.8542" y="1190.3479" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Nunes, Devin (R-CA)">
+            Nunes, Devin (R-CA) -
+        </text>
+        <text font-size="22" x="1215.8995" y="-1209.5037" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Pelosi, Nancy (D-CA)">
+            Pelosi, Nancy (D-CA) -
+        </text>
+        <text font-size="22" x="37.67457" y="1723.8247" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Peterson, Collin (D-MN)">
+            Peterson, Collin (D-MN) -
+        </text>
+        <text font-size="22" x="-1701.4468" y="242.33667" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Price, Tom (R-GA)">
+            Price, Tom (R-GA) -
+        </text>
+        <text font-size="23" x="631.60834" y="-903.3367" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Rahall, Nick (D-WV)">
+            Rahall, Nick (D-WV) -
+        </text>
+        <text font-size="22" x="1651.7388" y="490.44025" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Reed, Jack (D-RI)">
+            Reed, Jack (D-RI) -
+        </text>
+        <text font-size="22" x="1394.8754" y="-44.73871" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Ruppersberger, Dutch (D-MD)">
+            Ruppersberger, Dutch (D-MD) -
+        </text>
+        <text font-size="22" x="915.1296" y="1444.4604" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Simpson, Mike (R-ID)">
+            Simpson, Mike (R-ID) -
+        </text>
+        <text font-size="22" x="1701.281" y="-109.07657" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Smith, Adam (D-WA)">
+            Smith, Adam (D-WA) -
+        </text>
+        <text font-size="22" x="1351.9658" y="554.6987" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Thornberry, Mac (R-TX)">
+            Thornberry, Mac (R-TX) -
+        </text>
+        <text font-size="22" x="386.31427" y="-1388.2124" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Tierney, John F (D-MA)">
+            Tierney, John F (D-MA) -
+        </text>
+        <text font-size="23" x="-1122.9813" y="348.01953" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Toomey, Pat (R-PA)">
+            Toomey, Pat (R-PA) -
+        </text>
+        <text font-size="23" x="-1335.3622" y="-490.88028" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Upton, Fred (R-MI)">
+            Upton, Fred (R-MI) -
+        </text>
+        <text font-size="22" x="1143.44" y="1266.7668" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Valadao, David (R-CA)">
+            Valadao, David (R-CA) -
+        </text>
+        <text font-size="22" x="1696.8237" y="185.47964" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Visclosky, Pete (D-IN)">
+            Visclosky, Pete (D-IN) -
+        </text>
+        <text font-size="22" x="-1418.8782" y="-953.7827" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Vitter, David (R-LA)">
+            Vitter, David (R-LA) -
+        </text>
+        <text font-size="22" x="-390.0341" y="1352.2614" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Walden, Greg (R-OR)">
+            Walden, Greg (R-OR) -
+        </text>
+        <text font-size="22" x="-563.5777" y="1617.095" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Waxman, Henry (D-CA)">
+            Waxman, Henry (D-CA) -
+        </text>
+        <text font-size="22" x="-469.2407" y="-1309.7554" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Whitfield, Ed (R-KY)">
+            Whitfield, Ed (R-KY) -
+        </text>
+        <text font-size="22" x="899.84064" y="-725.1251" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Williams, Roger (R-TX)">
+            Williams, Roger (R-TX) -
+        </text>
+        <text font-size="22" x="1261.595" y="-615.15186" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Wittman, Rob (R-VA)">
+            Wittman, Rob (R-VA) -
+        </text>
+        <text font-size="22" x="-1000.1714" y="-1376.1667" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Yoder, Kevin (R-KS)">
+            Yoder, Kevin (R-KS) -
+        </text>
+        <text font-size="25" x="-878.8642" y="-687.3452" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Alexander, Lamar (R-TN)">
+            Alexander, Lamar (R-TN) -
+        </text>
+        <text font-size="28" x="134.37299" y="-270.88953" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Begich, Mark (D-AK)">
+            Begich, Mark (D-AK) -
+        </text>
+        <text font-size="22" x="116.424065" y="-1653.0994" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Bishop, Timothy H (D-NY)">
+            Bishop, Timothy H (D-NY) -
+        </text>
+        <text font-size="38" x="189.1747" y="45.431286" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Boehner, John (R-OH)">
+            Boehner, John (R-OH) -
+        </text>
+        <text font-size="33" x="-800.6171" y="345.601" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Booker, Cory (D-NJ)">
+            Booker, Cory (D-NJ) -
+        </text>
+        <text font-size="25" x="734.2327" y="-275.42407" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Braley, Bruce (D-IA)">
+            Braley, Bruce (D-IA) -
+        </text>
+        <text font-size="30" x="-810.9234" y="-221.49335" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Cantor, Eric (R-VA)">
+            Cantor, Eric (R-VA) -
+        </text>
+        <text font-size="27" x="-1032.7345" y="-442.58054" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Capito, Shelley Moore (R-WV)">
+            Capito, Shelley Moore (R-WV) -
+        </text>
+        <text font-size="27" x="-661.46796" y="-867.34204" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Cassidy, Bill (R-LA)">
+            Cassidy, Bill (R-LA) -
+        </text>
+        <text font-size="22" x="1162.3315" y="798.42773" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Cochran, Thad (R-MS)">
+            Cochran, Thad (R-MS) -
+        </text>
+        <text font-size="22" x="-826.6062" y="1489.4907" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Coffman, Mike (R-CO)">
+            Coffman, Mike (R-CO) -
+        </text>
+        <text font-size="23" x="-644.5098" y="1226.2344" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Collins, Susan M (R-ME)">
+            Collins, Susan M (R-ME) -
+        </text>
+        <text font-size="23" x="1145.1909" y="-894.8323" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Connolly, Gerry (D-VA)">
+            Connolly, Gerry (D-VA) -
+        </text>
+        <text font-size="22" x="-1708.1671" y="-54.27231" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Brady, Kevin (R-TX)">
+            Brady, Kevin (R-TX) -
+        </text>
+        <text font-size="22" x="-183.6006" y="-1425.7278" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Bustos, Cheri (D-IL)">
+            Bustos, Cheri (D-IL) -
+        </text>
+        <text font-size="23" x="-1267.0353" y="633.015" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Camp, Dave (R-MI)">
+            Camp, Dave (R-MI) -
+        </text>
+        <text font-size="22" x="372.12234" y="1689.1162" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Conaway, Mike (R-TX)">
+            Conaway, Mike (R-TX) -
+        </text>
+        <text font-size="23" x="563.711" y="537.9746" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Coons, Chris (D-DE)">
+            Coons, Chris (D-DE) -
+        </text>
+        <text font-size="40" x="30.313507" y="553.00684" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Cornyn, John (R-TX)">
+            Cornyn, John (R-TX) -
+        </text>
+        <text font-size="27" x="-409.85797" y="-993.0511" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Cotton, Tom (R-AR)">
+            Cotton, Tom (R-AR) -
+        </text>
+        <text font-size="22" x="1388.267" y="250.27509" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Courtney, Joe (D-CT)">
+            Courtney, Joe (D-CT) -
+        </text>
+        <text font-size="22" x="-1564.727" y="-686.02844" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Crowley, Joseph (D-NY)">
+            Crowley, Joseph (D-NY) -
+        </text>
+        <text font-size="25" x="-152.45316" y="-782.9341" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Daines, Steven (R-MT)">
+            Daines, Steven (R-MT) -
+        </text>
+        <text font-size="23" x="1087.3223" y="145.7689" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Durbin, Dick (D-IL)">
+            Durbin, Dick (D-IL) -
+        </text>
+        <text font-size="22" x="-1091.1112" y="1339.6052" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Foster, Bill (D-IL)">
+            Foster, Bill (D-IL) -
+        </text>
+        <text font-size="28" x="49.84915" y="862.9238" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Franken, Al (D-MN)">
+            Franken, Al (D-MN) -
+        </text>
+        <text font-size="22" x="-1475.8108" y="865.07336" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Burgess, Michael (R-TX)">
+            Burgess, Michael (R-TX) -
+        </text>
+        <text font-size="22" x="472.49118" y="1319.0427" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Costa, Jim (D-CA)">
+            Costa, Jim (D-CA) -
+        </text>
+        <text font-size="22" x="105.70516" y="-1310.1152" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="DeLauro, Rosa L (D-CT)">
+            DeLauro, Rosa L (D-CT) -
+        </text>
+        <text font-size="23" x="783.6705" y="20.595524" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Denham, Jeff (R-CA)">
+            Denham, Jeff (R-CA) -
+        </text>
+        <text font-size="22" x="-103.35986" y="1414.8435" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Eshoo, Anna (D-CA)">
+            Eshoo, Anna (D-CA) -
+        </text>
+        <text font-size="22" x="1565.9279" y="-672.21814" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Forbes, Randy (R-VA)">
+            Forbes, Randy (R-VA) -
+        </text>
+        <text font-size="33" x="498.82037" y="195.08488" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Graham, Lindsey (R-SC)">
+            Graham, Lindsey (R-SC) -
+        </text>
+        <text font-size="33" x="-457.1659" y="973.6537" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Hagan, Kay R (D-NC)">
+            Hagan, Kay R (D-NC) -
+        </text>
+        <text font-size="22" x="-737.6142" y="-1187.8035" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Hanabusa, Colleen (D-HI)">
+            Hanabusa, Colleen (D-HI) -
+        </text>
+        <text font-size="22" x="-1187.5507" y="-768.63745" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Hensarling, Jeb (R-TX)">
+            Hensarling, Jeb (R-TX) -
+        </text>
+        <text font-size="22" x="-912.764" y="1108.2451" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Holt, Rush (D-NJ)">
+            Holt, Rush (D-NJ) -
+        </text>
+        <text font-size="27" x="356.6684" y="-734.902" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Inhofe, James M (R-OK)">
+            Inhofe, James M (R-OK) -
+        </text>
+        <text font-size="30" x="-438.20596" y="-239.76884" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Landrieu, Mary L (D-LA)">
+            Landrieu, Mary L (D-LA) -
+        </text>
+        <text font-size="22" x="128.19653" y="1156.1243" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Davis, Rodney (R-IL)">
+            Davis, Rodney (R-IL) -
+        </text>
+        <text font-size="22" x="703.98083" y="-1555.1951" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Duckworth, Tammy (D-IL)">
+            Duckworth, Tammy (D-IL) -
+        </text>
+        <text font-size="22" x="1434.9813" y="-951.53174" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Frelinghuysen, Rodney (R-NJ)">
+            Frelinghuysen, Rodney (R-NJ) -
+        </text>
+        <text font-size="22" x="-1679.3354" y="-389.41138" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Gingrey, Phil (R-GA)">
+            Gingrey, Phil (R-GA) -
+        </text>
+        <text font-size="22" x="-272.1239" y="1691.4885" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Goodlatte, Bob (R-VA)">
+            Goodlatte, Bob (R-VA) -
+        </text>
+        <text font-size="22" x="1000.9131" y="-436.93665" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Graves, Sam (R-MO)">
+            Graves, Sam (R-MO) -
+        </text>
+        <text font-size="22" x="-981.3394" y="-1007.3724" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Johnson, Bill (R-OH)">
+            Johnson, Bill (R-OH) -
+        </text>
+        <text font-size="22" x="-1300.5347" y="1111.2473" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Kline, John (R-MN)">
+            Kline, John (R-MN) -
+        </text>
+        <text font-size="23" x="-143.64499" y="-1121.7507" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Lynch, Stephen F (D-MA)">
+            Lynch, Stephen F (D-MA) -
+        </text>
+        <text font-size="35" x="-117.69722" y="-122.06194" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Markey, Ed (D-MA)">
+            Markey, Ed (D-MA) -
+        </text>
+        <text font-size="30" x="-915.2327" y="616.5864" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="McCarthy, Kevin (R-CA)">
+            McCarthy, Kevin (R-CA) -
+        </text>
+        <text font-size="38" x="-257.45935" y="443.49762" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="McConnell, Mitch (R-KY)">
+            McConnell, Mitch (R-KY) -
+        </text>
+        <text font-size="28" x="87.79547" y="-580.8174" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Peters, Gary (D-MI)">
+            Peters, Gary (D-MI) -
+        </text>
+        <text font-size="22" x="201.29802" y="1447.7412" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Fincher, Steve (R-TN)">
+            Fincher, Steve (R-TN) -
+        </text>
+        <text font-size="22" x="-468.0124" y="-1634.0088" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Garamendi, John (D-CA)">
+            Garamendi, John (D-CA) -
+        </text>
+        <text font-size="22" x="1654.6327" y="-394.222" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Granger, Kay (R-TX)">
+            Granger, Kay (R-TX) -
+        </text>
+        <text font-size="23" x="1346.3875" y="-333.98962" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Hunter, Duncan D (R-CA)">
+            Hunter, Duncan D (R-CA) -
+        </text>
+        <text font-size="22" x="-744.38605" y="-1527.0791" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Murphy, Patrick E (D-FL)">
+            Murphy, Patrick E (D-FL) -
+        </text>
+        <text font-size="22" x="-1626.1158" y="588.397" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Pallone, Frank Jr (D-NJ)">
+            Pallone, Frank Jr (D-NJ) -
+        </text>
+        <text font-size="22" x="-1227.7289" y="-1183.1609" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Pompeo, Mike (R-KS)">
+            Pompeo, Mike (R-KS) -
+        </text>
+        <text font-size="23" x="-1350.5923" y="85.96914" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Portman, Rob (R-OH)">
+            Portman, Rob (R-OH) -
+        </text>
+        <text font-size="33" x="461.0164" y="-106.89912" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Pryor, Mark (D-AR)">
+            Pryor, Mark (D-AR) -
+        </text>
+        <text font-size="22" x="325.5723" y="712.0132" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Roberts, Pat (R-KS)">
+            Roberts, Pat (R-KS) -
+        </text>
+        <text font-size="25" x="-1140.4104" y="-158.9313" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Ryan, Paul (R-WI)">
+            Ryan, Paul (R-WI) -
+        </text>
+        <text font-size="25" x="644.2922" y="-570.38513" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Schatz, Brian (D-HI)">
+            Schatz, Brian (D-HI) -
+        </text>
+        <text font-size="27" x="-183.25812" y="1094.2748" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Shaheen, Jeanne (D-NH)">
+            Shaheen, Jeanne (D-NH) -
+        </text>
+        <text font-size="22" x="-165.4942" y="-1717.8577" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Grimm, Michael (R-NY)">
+            Grimm, Michael (R-NY) -
+        </text>
+        <text font-size="20" x="370.52057" y="-1076.7327" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Labor">
+            Labor -
+        </text>
+        <text font-size="25" x="864.30035" y="668.69324" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Kingston, Jack (R-GA)">
+            Kingston, Jack (R-GA) -
+        </text>
+        <text font-size="20" x="394.92783" y="1011.88934" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Agriculture">
+            Agriculture -
+        </text>
+        <text font-size="23" x="903.5591" y="-1078.9617" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="LoBiondo, Frank A (R-NJ)">
+            LoBiondo, Frank A (R-NJ) -
+        </text>
+        <text font-size="20" x="393.87668" y="-410.5991" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Transportation">
+            Transportation -
+        </text>
+        <text font-size="22" x="1524.5784" y="804.0508" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="McKeon, Buck (R-CA)">
+            McKeon, Buck (R-CA) -
+        </text>
+        <text font-size="20" x="1073.4685" y="-148.37863" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Defense">
+            Defense -
+        </text>
+        <text font-size="22" x="-1433.298" y="364.32678" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Pitts, Joe (R-PA)">
+            Pitts, Joe (R-PA) -
+        </text>
+        <text font-size="20" x="-972.13275" y="81.371" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Healthcare">
+            Healthcare -
+        </text>
+        <text font-size="25" x="-1097.8932" y="874.94824" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Reid, Harry (D-NV)">
+            Reid, Harry (D-NV) -
+        </text>
+        <text font-size="20" x="-519.5347" y="301.21057" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Business">
+            Business -
+        </text>
+        <text font-size="23" x="-1443.841" y="-200.26031" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Schumer, Charles E (D-NY)">
+            Schumer, Charles E (D-NY) -
+        </text>
+        <text font-size="20" x="-645.546" y="9.676401" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Finance">
+            Finance -
+        </text>
+        <text font-size="28" x="-189.00217" y="-432.37744" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Scott, Tim (R-SC)">
+            Scott, Tim (R-SC) -
+        </text>
+        <text font-size="20" x="-644.8211" y="-471.1679" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Energy">
+            Energy -
+        </text>
+        <text font-size="22" x="787.7443" y="329.2234" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Sessions, Pete (R-TX)">
+            Sessions, Pete (R-TX) -
+        </text>
+        <text font-size="20" x="-38.66619" y="222.20917" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Single Issue">
+            Single Issue -
+        </text>
+        <text font-size="23" x="109.82495" y="-941.0469" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Shuster, Bill (R-PA)">
+            Shuster, Bill (R-PA) -
+        </text>
+        <text font-size="20" x="-416.0295" y="-642.2886" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Construction">
+            Construction -
+        </text>
+        <text font-size="30" x="-732.52264" y="857.09894" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Udall, Mark (D-CO)">
+            Udall, Mark (D-CO) -
+        </text>
+        <text font-size="20" x="-248.54973" y="749.3849" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Communications/Electronics">
+            Communications/Electronics -
+        </text>
+        <text font-size="23" x="649.96985" y="869.81165" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Udall, Tom (D-NM)">
+            Udall, Tom (D-NM) -
+        </text>
+        <text font-size="20" x="267.99457" y="372.1776" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Lawyers/Lobbyists">
+            Lawyers/Lobbyists -
+        </text>
+        <text font-size="30" x="-324.45306" y="75.155685" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Warner, Mark (D-VA)">
+            Warner, Mark (D-VA) -
+        </text>
+        <text font-size="20" x="-550.6009" y="613.66547" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Other">
+            Other -
+        </text>
+    </g>
+</svg>

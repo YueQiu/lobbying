@@ -1,0 +1,348 @@
+<!doctype html>
+<html>
+<head lang="en">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	
+	<title>QMSS-DavaViz</title> 
+	<meta name="description" content="BlackTie.co - Free Handsome Bootstrap Themes" />	    
+	<meta name="keywords" content="themes, bootstrap, free, templates, bootstrap 3, freebie,">
+	<meta property="og:title" content="">
+
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="fancybox/jquery.fancybox-v=2.1.5.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="css/font-awesome.min.css" rel="stylesheet">
+	
+	<link rel="stylesheet" type="text/css" href="css/style.css">	
+	<script src="http://d3js.org/d3.v3.min.js"></script>
+	<link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,600,300,200&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	
+	
+	<link rel="prefetch" href="images/zoom.png">
+		
+</head>
+
+<body>
+	<div class="navbar navbar-fixed-top" data-activeslide="1">
+		<div class="container">
+		
+			<!-- .navbar-toggle is used as the toggle for collapsed navbar content -->
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			
+			
+			<div class="nav-collapse collapse navbar-responsive-collapse">
+				<ul class="nav row">
+					<li data-slide="1" class="col-12 col-sm-2"><a id="menu-link-1" href="#slide-1" title="Next Section"><span class="icon icon-home"></span> <span class="text">HOME</span></a></li>
+					<li data-slide="2" class="col-12 col-sm-2" ><a id="menu-link-2" href="#slide-2" title="Next Section"><span class="icon icon-eye-open"></span> <span class="text">Lobbying in 2012</span></a></li>
+					<li data-slide="3" class="col-12 col-sm-2" ><a id="menu-link-3" href="#slide-3" title="Next Section"><span class="icon icon-calendar"></span> <span class="text">Over time</span></a></li>
+					<li data-slide="4" class="col-12 col-sm-2"><a id="menu-link-4" href="#slide-4" title="Next Section"><span class="icon icon-user"></span> <span class="text">Top Recipients</span></a></li>
+					<li data-slide="5" class="col-12 col-sm-2"><a id="menu-link-5" href="#slide-5" title="Next Section"><span class="icon icon-money"></span> <span class="text">Industry Payoff</span></a></li>
+					<li data-slide="6" class="col-12 col-sm-2"><a id="menu-link-6" href="#slide-6" title="Next Section"><span class="icon icon-envelope"></span> <span class="text">CONTACT</span></a></li>
+				</ul>
+				<div class="row">
+					<div class="col-sm-2 active-menu"></div>
+				</div>
+			</div><!-- /.nav-collapse -->
+		</div><!-- /.container -->
+	</div><!-- /.navbar -->
+	
+	
+	<!-- === Arrows === -->
+	<div id="arrows">
+		<div id="arrow-up" class="disabled"></div>
+		<div id="arrow-down"></div>
+		<!-- <div id="arrow-left" class="disabled visible-lg"></div>
+		<div id="arrow-right" class="disabled visible-lg"></div> -->
+	</div><!-- /.arrows -->
+	
+	
+	<!-- === MAIN Background === -->
+	<div class="slide story" id="slide-1" data-slide="1">
+		<div class="container">
+			<div id="home-row-1" class="row clearfix">
+				<div class="col-12">
+					<span class="font-thin"><h1 class="font-semibold" style="background:grey; padding-top:0;margin-top:170px; text-align:center; margin-left:auto; margin-right:auto; width:606px">Lobbying in the US 101</h1></span>
+					<!-- <h4 class="font-thin">We are an <span class="font-semibold">independent interactive agency</span> based in London.</h4> -->
+					<br>
+					<br>
+				</div><!-- /col-12 -->
+			</div><!-- /row -->
+			<div id="home-row-2" class="row clearfix">
+				<div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="2"><img src="images/s02.png"></div><span>Overview</span></div>
+				<div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="4"><img src="images/s01.png"></div><span>Industry Performance</span></div>
+				<div class="col-12 col-sm-4"><div class="home-hover navigation-slide" data-slide="5"><img src="images/s03.png"></div><span>Top Recipients</span></div>
+			</div><!-- /row -->
+		</div><!-- /container -->
+	</div><!-- /slide1 -->
+	
+	<!-- === Slide 2 === -->
+	<div class="slide story" id="slide-2" data-slide="2" style="background:white; color:#454545">
+		<div class="container">
+			<div class="row title-row" style="padding-bottom:5px;">
+				<div class="col-12 font-thin"><span class="font-semibold">Total Lobbying Spending</span> in 2012</div>
+			</div><!-- /row -->
+			<h4 class="font-thin">Click on each bubble to explore individual industry's spending.</h4>
+			<!-- <div class="row line-row">
+				<div class="hr">&nbsp;</div>
+			</div> --><!-- /row -->
+			<!-- <div class="row subtitle-row">
+				<div class="col-12 font-thin">This is what <span class="font-semibold">we do best</span></div>
+			</div> --><!-- /row -->
+			
+			<div style="position: relative;width:100%;height:700;overflow: hidden;">
+				<iframe src="https://dl.dropboxusercontent.com/u/100990631/bubbletree-master/testrandom.html#/~/total" height="700" width=100% allowfullscreen="" frameborder="0"></iframe>
+
+			</div>
+
+
+
+			<div class="row subtitle-row">
+				<div class="col-sm-1 hidden-sm">&nbsp;</div>
+				<div class="col-12 col-sm-10 font-light">
+					<h4 >Lobbying in the United States describes paid activity in which special interests hire well-connected professional advocates, often lawyers, to argue for specific legislation in decision-making bodies such as the United States Congress. <br><br>Lobbying expenditures for large pro-business lobbying groups soared in 2012, driven by election-year politics, the lame-duck congressional session's increased legislation, and the fiscal cliff showdown, <br><br>
+A study of the 50 firms that spent the most on lobbying relative to their assets compared their financial performance against that of the S&P 500 in the stock market concluded that spending on lobbying was a "spectacular investment" yielding "blistering" returns comparable to a high-flying hedge fund, even despite the financial downturn of the past few years.</h4></div>
+				<div class="col-sm-1 hidden-sm">&nbsp;</div>
+			</div><!-- /row -->
+
+		</div><!-- /container -->
+	</div><!-- /slide2 -->
+	
+	<!-- === SLide 3 - Portfolio -->
+	<div class="slide story" id="slide-3" data-slide="3" style="background:"#f0f0f0"; color:#454545" >
+		<div class="container">
+		<h4 class="font-thin" style="font-size: 35px;padding-bottom: 20px"><span class="font-semibold">Total Lobbying Expenditure</span> Over Time.</h4>
+		<!-- <div class="row"> -->
+			<!-- <div class="col-12 col-sm-6 col-lg-2"><a data-fancybox-group="portfolio" class="fancybox" href="images/portfolio/p01-large.jpg"><img class="thumb" src="images/portfolio/p01-small.jpg" alt=""></a></div> -->
+			<!-- <div class="col-12 col-sm-4 col-lg-2"><a data-fancybox-group="portfolio" class="fancybox" href="images/portfolio/p02-large.jpg"><img class="thumb" src="images/portfolio/p02-small.jpg" alt=""></a></div>
+			<div class="col-12 col-sm-4 col-lg-2"><a data-fancybox-group="portfolio" class="fancybox" href="images/portfolio/p09-large.jpg"><img class="thumb" src="images/portfolio/p09-small.jpg" alt=""></a></div>
+			<div class="col-12 col-sm-4 col-lg-2"><a data-fancybox-group="portfolio" class="fancybox" href="images/portfolio/p010-large.jpg"><img class="thumb" src="images/portfolio/p10-small.jpg" alt=""></a></div>
+			<div class="col-12 col-sm-6 col-lg-2"><a data-fancybox-group="portfolio" class="fancybox" href="images/portfolio/p05-large.jpg"><img class="thumb" src="images/portfolio/p05-small.jpg" alt=""></a></div>
+			<div class="col-12 col-sm-6 col-lg-2"><a data-fancybox-group="portfolio" class="fancybox" href="images/portfolio/p06-large.jpg"><img class="thumb" src="images/portfolio/p06-small.jpg" alt=""></a></div> -->
+			<!-- <div class="col-12 col-sm-6 col-lg-2"><a data-fancybox-group="portfolio" class="fancybox" href="images/portfolio/p07-large.jpg"><img class="thumb" src="images/portfolio/p07-small.jpg" alt=""></a></div> -->
+			<!-- <div class="col-12 col-sm-4 col-lg-2"><a data-fancybox-group="portfolio" class="fancybox" href="images/portfolio/p08-large.jpg"><img class="thumb" src="images/portfolio/p08-small.jpg" alt=""></a></div>
+			<div class="col-12 col-sm-4 col-lg-2"><a data-fancybox-group="portfolio" class="fancybox" href="images/portfolio/p03-large.jpg"><img class="thumb" src="images/portfolio/p03-small.jpg" alt=""></a></div>
+			<div class="col-12 col-sm-4 col-lg-2"><a data-fancybox-group="portfolio" class="fancybox" href="images/portfolio/p04-large.jpg"><img class="thumb" src="images/portfolio/p04-small.jpg" alt=""></a></div> -->
+			<!-- <div class="col-12 col-sm-6 col-lg-2"><a data-fancybox-group="portfolio" class="fancybox" href="images/portfolio/p11-large.jpg"><img class="thumb" src="images/portfolio/p11-small.jpg" alt=""></a></div>
+			<div class="col-12 col-sm-6 col-lg-2"><a data-fancybox-group="portfolio" class="fancybox" href="images/portfolio/p12-large.jpg"><img class="thumb" src="images/portfolio/p12-small.jpg" alt=""></a></div> -->
+			
+			<!-- tablue visualizaton -->
+			<div style="margin-left:auto; margin-right:auto">
+				<img src="images/overtime.jpg" height="500" width="800">
+			</div>
+			<br><br>
+			
+
+
+			
+		</div> <!-- container -->
+
+		<!-- </div><!-- /row --> 
+	</div><!-- /slide3 -->
+	
+	<!-- === Slide 4 - Process === -->
+	<div class="slide story" id="slide-4" data-slide="4" style="background:#d9d9d9; color:#454545">
+		<div class="container">
+			<div class="row title-row">
+				<div class="col-12 font-thin"><span class="font-semibold">Top Recipients</span> in 2014</div>
+			</div><!-- /row -->
+			
+		<!-- 	<div >
+				<iframe src="images/congress_indus2.svg" height="850" width=100% allowfullscreen="" frameborder="0"></iframe>
+			</div> -->
+
+			<div class = "network"></div>
+
+		</div><!-- /container -->
+		
+	</div><!-- /slide4 -->
+	
+	<!-- === Slide 5 === -->
+	<div class="slide story" id="slide-5" data-slide="5"  style="background:#bdbdbd; color:#454545" >
+		<div class="container">
+			<div class="row title-row">
+				<div class="col-12 font-thin" ><span class="font-semibold" >Lobbying and Industry Performance (1998-2012) </span> </div>
+				<h4 class="font-thin">Explore the "Year" navigator to visualize trends over time, or filter by sector.</h4>
+			</div><!-- /row -->
+
+			<!-- tableau Viz-->
+ 
+			<script type='text/javascript' src='http://public.tableausoftware.com/javascripts/api/viz_v1.js'></script>
+			<div class='tableauPlaceholder' style='width: 604px; height: 809px; margin-left:auto; margin-right:auto'>
+				
+				<noscript><a href='#'><img alt=' ' src='http:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;BC&#47;BCXKMMDQ8&#47;1_rss.png' style='border: none' /></a></noscript>
+
+				<object class='tableauViz' width='604' height='809' style='display:none;'>
+					<param name='host_url' value='http%3A%2F%2Fpublic.tableausoftware.com%2F' />  
+					<param name='path' value='shared&#47;BCXKMMDQ8' /> 
+					<param name='toolbar' value='yes' />
+					<param name='static_image' value='http:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;BC&#47;BCXKMMDQ8&#47;1.png' /> 
+					<param name='animate_transition' value='yes' />
+					<param name='display_static_image' value='yes' />
+					<param name='display_spinner' value='yes' />
+					<param name='display_overlay' value='yes' />
+					<param name='display_count' value='yes' />
+					<param name='showVizHome' value='no' />
+					<param name='showTabs' value='y' />
+				</object>
+			</div>
+
+			<div class="row subtitle-row">
+				<div class="col-sm-1 hidden-sm">&nbsp;</div>
+				<div class="col-12 col-sm-10 font-light">
+					<h4 class="font-thin font-semibold">Formally, lobbying intends to influence the passage or blockage of legislative bills and regulations. However, given that many firms, organizations, and people often lobby the same piece of legislation but on opposing sides, a better way of measuring the "success" of lobbying is by examining the relationship between the amount spent on lobbying by a firm or industry, and that industry's overall performance.<br><br>
+Overall, from 1998 to 2012, there has been a strong, positive relationship between and industry's lobbying efforts and the gross output of that industry. In other words, industries that invest a lot of funds on lobbying tend to, on average, have higher gross output. However, this does not necessarily represent a causal relationship.<br><br>
+Indeed, there is wide industry-to-industry variation, particularly on a year-to-year basis, that suggest otherwise. Here are some interesting facts.
+</h4></div>
+				<div class="col-sm-1 hidden-sm">&nbsp;</div>
+			</div><!-- /row -->
+
+			<div class="row content-row">
+				<div class="col-12 col-lg-3 col-sm-6">
+					<!-- <p><i class="icon icon-eye-open"></i></p> -->
+					<h3 > <span class="font-semibold">AGRIBUSINESS</span></h3>
+					<h4 class="font-thin">Crop production and basic processing has grown very rapidly in terms of gross output while lobbying has grown much more slowly. <br>The tobacco industry's lobbying efforts have varied widely from year-to-year, with little effect on the performance of the industry</h4>
+				</div><!-- /col12 -->
+				<div class="col-12 col-lg-3 col-sm-6">
+					<!-- <p><i class="icon icon-laptop"></i></p> -->
+					<h3 class="font-thin"> <span class="font-semibold">CONSTRUCTION</span></h3>
+					<h4 class="font-thin">The housing boom and bust are evident: the home builder industry's gross output increases dramatically up to 2006 then falls sharply after 2007, with little change in lobbying efforts.</h4>
+				</div><!-- /col12 -->
+				<div class="col-12 col-lg-3 col-sm-6">
+					<!-- <p><i class="icon icon-tablet"></i></p> -->
+					<h3 class="font-thin"> <span class="font-semibold">ENERGY</span></h3>
+					<h4 class="font-thin">The oil and gas industry suffered a significant drop in gross output at the beginning of the great recession despite increases in lobbying funds. <br>The electric utilities industry has more than doubled lobbying funds over the past 12 years, yet its performance as an industry has stayed constant</h4>
+				</div><!-- /col12 -->
+				<div class="col-12 col-lg-3 col-sm-6">
+					<!-- <p><i class="icon icon-pencil"></i></p> -->
+					<h3 class="font-semibold"><span class="font-semibold">FINANCE</span></h3>
+					<h4 class="font-thin">From 2002 to 2007, there was a positive correlation between lobbying money and gross output in the banking/finance, insurance, and real estate industries. Since 2008 (the beginning of the financial crisis), increased lobbying is correlated with lower gross output</h4>
+				</div><!-- /col12 -->
+			</div><!-- /row -->
+
+
+
+			
+		</div><!-- /container -->
+		
+	</div><!-- /slide5 -->
+	
+	<!-- === Slide 6 / Contact === -->
+	<div class="slide story" id="slide-6" data-slide="6">
+		<div class="container">
+			<div class="row title-row">
+				<div class="col-12 font-light">Please let us know what <span class="font-semibold">YOU</span> think</div>
+			</div><!-- /row -->
+			<div class="row line-row">
+				<div class="hr">&nbsp;</div>
+			</div><!-- /row -->
+			<div class="row subtitle-row">
+				<div class="col-sm-1 hidden-sm">&nbsp;</div>
+				<div class="col-12 col-sm-10 font-light">We welcome suggestions and new data</div>
+				<div class="col-sm-1 hidden-sm">&nbsp;</div>
+			</div><!-- /row -->
+			<div id="contact-row-4" class="row">
+				<div class="col-sm-1 hidden-sm">&nbsp;</div>
+				<div class="col-12 col-sm-2 with-hover-text">
+					<p><a target="_blank" href="#"><i class="icon icon-phone"></i></a></p>
+					<span class="hover-text font-light ">+917 9699387</span></a>
+				</div><!-- /col12 -->
+				<div class="col-12 col-sm-2 with-hover-text">
+					<p><a target="_blank" href="#"><i class="icon icon-envelope"></i></a></p>
+					<span class="hover-text font-light ">yq2154@columbia.edu</span></a>
+				</div><!-- /col12 -->
+				<div class="col-12 col-sm-2 with-hover-text">
+					<p><a target="_blank" href="#"><i class="icon icon-home"></i></a></p>
+					<span class="hover-text font-light ">yue-qiu.me/</span></a>
+				</div><!-- /col12 -->
+				<div class="col-12 col-sm-2 with-hover-text">
+					<p><a target="_blank" href="#"><i class="icon icon-twitter"></i></a></p>
+					<span class="hover-text font-light ">@YueQiu_cuj</span></a>
+				</div><!-- /col12 -->
+				<div class="col-12 col-sm-2 with-hover-text">
+					<p><a target="_blank" href="#"><i class="icon icon-search"></i></a></p>
+					<span class="hover-text font-light ">Sources: Sunlight Foundation, Bureau of Economic Analysis</span></a>
+				</div><!-- /col12 -->
+				<div class="col-sm-1 hidden-sm">&nbsp;</div>
+			</div><!-- /row -->
+		</div><!-- /container -->
+	</div><!-- /Slide 6 -->
+	
+</body>
+
+	<!-- SCRIPTS -->
+	<script src="js/html5shiv.js"></script>
+	<script src="js/jquery-1.10.2.min.js"></script>
+	<script src="js/jquery-migrate-1.2.1.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/jquery.easing.1.3.js"></script>
+	<script type="text/javascript" src="fancybox/jquery.fancybox.pack-v=2.1.5.js"></script>
+	<script src="js/script.js"></script>
+	
+	<!-- fancybox init -->
+	<script>
+	$(document).ready(function(e) {
+		var lis = $('.nav > li');
+		menu_focus( lis[0], 1 );
+		
+		$(".fancybox").fancybox({
+			padding: 10,
+			helpers: {
+				overlay: {
+					locked: false
+				}
+			}
+		});
+	
+	});
+
+	var main_chart_div = d3.select(".network");
+var svg;
+ 
+	d3.xml("images/congress_indus2.svg", function(error, documentFragment) {
+	        if (error) {console.log(error); return;}
+	    
+	       var svgNode = documentFragment
+	                    .getElementsByTagName("svg")[0];
+	    
+	        main_chart_div.node().appendChild(svgNode);
+	    
+	        svg = main_chart_div.select("svg")
+	            
+	        svg.selectAll("circle")
+	           .attr("pointer-events","all")
+	           .on("mousemove",mouseover)
+	           .on("mouseout", mouseout);
+
+	        function mouseover(d){
+	        	mouseclass = d3.select(this).attr("class");
+	        	console.log(mouseclass);
+        	   	d3.selectAll("circle").style("opacity",0.5);
+	        	d3.selectAll("path").style("opacity",0.2);
+	        	d3.selectAll("text").style("opacity",0.8);
+	        	d3.select(this).style("opacity",1);
+	        	if(mouseclass.indexOf(" ") == -1){
+		     
+		        	d3.selectAll("."+mouseclass).style("opacity",1);
+	        	}else{
+	        		mouseclass = mouseclass.split(" ")[1];
+		        	d3.selectAll("."+mouseclass).style("opacity",1);
+	        	}
+	        }
+
+	        function mouseout(d){
+	        	d3.selectAll("circle").style("opacity",1);
+	        	d3.selectAll("path").style("opacity",1);
+	        	d3.selectAll("text").style("opacity",1);
+	        }
+
+    });
+
+
+
+	</script>
+
+</html>

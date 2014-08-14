@@ -1,0 +1,2015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="857px"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css" viewBox="-136 -120 262 257" height="841px"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="0.5"
+              d="M -76.214897,65.998886 C -48.070126,45.760933 24.503952,57.621170 44.741901,85.765938"
+              class="Transportation Boehner, John (OH)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -76.214897,65.998886 C -62.160599,20.603493 27.013937,-26.408154 72.409332,-12.353858"
+              class="Transportation Cantor, Eric (VA)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -76.214897,65.998886 C -89.160858,32.681206 -58.603275,-36.714264 -25.285593,-49.660221"
+              class="Transportation Cassidy, Bill (LA)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -76.214897,65.998886 C -62.719414,46.830772 -13.724021,38.321831 5.444092,51.817314"
+              class="Transportation Cornyn, Johnathan (TX)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -76.214897,65.998886 C -90.027008,49.958561 -86.684692,5.179904 -70.644371,-8.632211"
+              class="Transportation Daines, Steven (MT)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -76.214897,65.998886 C -52.633228,56.163006 -2.506913,76.781693 7.328967,100.363358"
+              class="Transportation Denham, Jeff (CA)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -76.214897,65.998886 C -85.589882,57.750439 -87.279678,31.315287 -79.031235,21.940304"
+              class="Transportation Graham, Lindsey (SC)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -76.214897,65.998886 C -70.429062,64.862083 -60.045113,71.835617 -58.908306,77.621452"
+              class="Transportation Graves, Sam (MO)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -76.214897,65.998886 C -57.499592,58.130245 -17.623674,74.400238 -9.755033,93.115540"
+              class="Transportation Hunter, Duncan D (CA)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -76.214897,65.998886 C -71.548706,60.865810 -56.849808,60.165478 -51.716732,64.831665"
+              class="Transportation Inhofe, James M (OK)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -76.214897,65.998886 C -56.582249,53.856247 -8.919327,65.091270 3.223309,84.723915"
+              class="Transportation Kingston, Jack (GA)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -76.214897,65.998886 C -78.274689,71.740410 -89.976669,77.262993 -95.718193,75.203201"
+              class="Transportation LoBiondo, Frank A (NJ)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -76.214897,65.998886 C -64.295135,31.613739 5.162223,-2.084341 39.547371,9.835420"
+              class="Transportation McConnell, Mitch (KY)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -76.214897,65.998886 C -65.533447,58.474312 -38.224403,63.209633 -30.699827,73.891083"
+              class="Transportation Pryor, Mark (AR)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -76.214897,65.998886 C -82.021294,63.252987 -86.612030,50.424557 -83.866135,44.618164"
+              class="Transportation Rahall, Nick (WV)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -76.214897,65.998886 C -71.186310,53.001392 -44.147202,41.048031 -31.149706,46.076614"
+              class="Transportation Schatz, Brian (HI)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -76.214897,65.998886 C -82.820663,26.602131 -33.634167,-42.401649 5.762589,-49.007412"
+              class="Transportation Scott, Tim (SC)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -76.214897,65.998886 C -83.698318,46.320076 -65.405243,5.576721 -45.726433,-1.906704"
+              class="Transportation Shuster, Bill (PA)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -76.214897,65.998886 C -82.466881,35.086395 -45.476120,-20.660315 -14.563627,-26.912298"
+              class="Transportation Warner, MarkVA"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -76.214897,65.998886 C -60.244713,55.415791 -20.414799,63.496433 -9.831708,79.466614"
+              class="Transportation Williams, Roger (TX)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -22.451317,-1.080458 C -23.191273,7.047439 -36.493050,18.129349 -44.620945,17.389393"
+              class="Single Issue Begich, MarkAK"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -22.451317,-1.080458 C -28.149685,-27.903305 3.537029,-76.685135 30.359879,-82.383499"
+              class="Single Issue Booker, Cory (NJ)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -22.451317,-1.080458 C -35.927906,17.811256 -84.480370,25.933937 -103.372078,12.457345"
+              class="Single Issue Braley, Bruce (IA)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -22.451317,-1.080458 C -48.117008,-6.612787 -78.317062,-53.409821 -72.784729,-79.075516"
+              class="Single Issue Collins, Susan M (ME)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -22.451317,-1.080458 C -6.292679,3.920016 10.444566,35.658676 5.444092,51.817314"
+              class="Single Issue Cornyn, Johnathan (TX)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -22.451317,-1.080458 C -38.381889,-9.847207 -49.127621,-46.893188 -40.360870,-62.823757"
+              class="Single Issue Cotton, Tom (AR)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -22.451317,-1.080458 C -15.131897,-2.716581 -1.698580,5.808364 -0.062457,13.127785"
+              class="Single Issue Franken, Al (MN)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -22.451317,-1.080458 C -29.163151,14.839680 -63.111095,28.652136 -79.031235,21.940304"
+              class="Single Issue Graham, Lindsey (SC)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -22.451317,-1.080458 C 2.981826,-18.335793 67.014542,-6.069079 84.269875,19.364063"
+              class="Single Issue Hagan, Kay R (NC)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -22.451317,-1.080458 C -43.535801,-2.809136 -72.569519,-37.028885 -70.840836,-58.113369"
+              class="Single Issue Landrieu, Mary L (LA)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -22.451317,-1.080458 C -33.984238,-0.965347 -51.456280,-18.092064 -51.571392,-29.624985"
+              class="Single Issue Markey, Ed (MA)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -22.451317,-1.080458 C -7.868403,-11.297020 29.330809,-4.747494 39.547371,9.835420"
+              class="Single Issue McConnell, Mitch (KY)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -22.451317,-1.080458 C -37.113224,11.418676 -77.854797,8.174513 -90.353928,-6.487398"
+              class="Single Issue Peters, Gary (MI)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -22.451317,-1.080458 C -9.106710,15.563553 -14.055817,60.546478 -30.699827,73.891083"
+              class="Single Issue Pryor, Mark (AR)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -22.451317,-1.080458 C -40.751740,2.683826 -73.848785,-19.120378 -77.613075,-37.420799"
+              class="Single Issue Roberts, Pat (KS)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -22.451317,-1.080458 C -26.393929,-16.308630 -9.465584,-45.064800 5.762589,-49.007412"
+              class="Single Issue Scott, Tim (SC)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -22.451317,-1.080458 C -37.686581,5.780715 -70.831245,-6.780426 -77.692413,-22.015694"
+              class="Single Issue Sessions, Pete (TX)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -22.451317,-1.080458 C -16.992460,4.905556 -17.783197,22.072861 -23.769211,27.531717"
+              class="Single Issue Shaheen, Jeanne (NH)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -22.451317,-1.080458 C -19.449738,-11.898447 1.279616,-23.623062 12.097606,-20.621483"
+              class="Single Issue Udall, MarkCO"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -22.451317,-1.080458 C -28.964344,7.813907 -52.075428,11.385911 -60.969795,4.872884"
+              class="Single Issue Udall, Tom (NM)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -12.025497,-68.981537 C 30.277477,-49.385525 64.337914,43.462963 44.741901,85.765938"
+              class="Other Boehner, John (OH)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -12.025497,-68.981537 C -6.228815,-80.139000 19.202412,-88.180183 30.359879,-82.383499"
+              class="Other Booker, Cory (NJ)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -12.025497,-68.981537 C -21.266138,-75.559425 -25.260273,-99.287216 -18.682388,-108.527855"
+              class="Other Capito, Shelley Moore (WV)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -12.025497,-68.981537 C -25.455154,-71.934982 -41.169468,-96.509636 -38.216022,-109.939293"
+              class="Other Coffman, Mike (CO)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -12.025497,-68.981537 C -26.196138,-58.848488 -62.651676,-64.904869 -72.784729,-79.075516"
+              class="Other Collins, Susan M (ME)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -12.025497,-68.981537 C 15.628191,-48.315685 26.109945,24.163626 5.444092,51.817314"
+              class="Other Cornyn, Johnathan (TX)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -12.025497,-68.981537 C -27.875721,-68.587029 -52.242817,-91.770607 -52.637321,-107.620834"
+              class="Other Foster, Bill (IL)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -12.025497,-68.981537 C 6.788974,-54.952282 13.966799,-5.686687 -0.062457,13.127785"
+              class="Other Franken, Al (MN)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -12.025497,-68.981537 C -7.242275,-37.396023 -47.445721,17.157082 -79.031235,21.940304"
+              class="Other Graham, Lindsey (SC)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -12.025497,-68.981537 C 24.902695,-70.571487 82.679924,-17.564129 84.269875,19.364063"
+              class="Other Hagan, Kay R (NC)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -12.025497,-68.981537 C -22.044531,-60.968552 -49.092556,-63.977631 -57.105537,-73.996658"
+              class="Other Holt, Rush (NJ)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -12.025497,-68.981537 C -29.392851,-61.467361 -66.715134,-76.247131 -74.229309,-93.614487"
+              class="Other Kline, John (MN)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -12.025497,-68.981537 C -21.614933,-55.044838 -56.904133,-48.523933 -70.840836,-58.113369"
+              class="Other Landrieu, Mary L (LA)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -12.025497,-68.981537 C -12.063367,-53.201046 -35.790901,-29.587116 -51.571392,-29.624985"
+              class="Other Markey, Ed (MA)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -12.025497,-68.981537 C 14.052469,-63.532719 44.996189,-16.242546 39.547371,9.835420"
+              class="Other McConnell, Mitch (KY)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -12.025497,-68.981537 C -15.192356,-40.817020 -62.189411,-3.320540 -90.353928,-6.487398"
+              class="Other Peters, Gary (MI)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -12.025497,-68.981537 C -25.634296,-64.558128 -52.682610,-78.336212 -57.106014,-91.945015"
+              class="Other Ryan, Paul (WI)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -12.025497,-68.981537 C 4.928411,-47.330143 -2.117817,10.577809 -23.769211,27.531717"
+              class="Other Shaheen, Jeanne (NH)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -12.025497,-68.981537 C 2.471135,-64.134148 16.944996,-35.118114 12.097606,-20.621483"
+              class="Other Udall, MarkCO" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -12.025497,-68.981537 C -4.119275,-60.060062 -5.642154,-34.818520 -14.563627,-26.912298"
+              class="Other Warner, MarkVA" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -54.536869,43.427383 C -57.761284,36.236599 -51.811729,20.613806 -44.620945,17.389393"
+              class="Lawyers Lobbyists Begich, MarkAK"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -54.536869,43.427383 C -26.213402,32.039341 33.353859,57.442471 44.741901,85.765938"
+              class="Lawyers Lobbyists Boehner, John (OH)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -54.536869,43.427383 C -62.719696,1.285856 -11.781649,-74.200668 30.359879,-82.383499"
+              class="Lawyers Lobbyists Booker, Cory (NJ)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -54.536869,43.427383 C -70.497917,47.000420 -99.799042,28.418394 -103.372078,12.457345"
+              class="Lawyers Lobbyists Braley, Bruce (IA)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -54.536869,43.427383 C -34.661465,25.948973 21.369259,29.544458 38.847672,49.419865"
+              class="Lawyers Lobbyists Coons, Chris (DE)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -54.536869,43.427383 C -40.862690,33.109177 -4.874114,38.143135 5.444092,51.817314"
+              class="Lawyers Lobbyists Cornyn, Johnathan (TX)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -54.536869,43.427383 C -45.133408,53.251492 -45.764370,82.092834 -55.588478,91.496300"
+              class="Lawyers Lobbyists Durbin, Dick (IL)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -54.536869,43.427383 C -49.701908,26.472580 -17.017260,8.292822 -0.062457,13.127785"
+              class="Lawyers Lobbyists Franken, Al (MN)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -54.536869,43.427383 C -63.733158,44.028839 -78.429779,31.136593 -79.031235,21.940304"
+              class="Lawyers Lobbyists Graham, Lindsey (SC)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -54.536869,43.427383 C -31.588184,10.853371 51.695862,-3.584621 84.269875,19.364063"
+              class="Lawyers Lobbyists Hagan, Kay R (NC)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -54.536869,43.427383 C -78.105812,26.380026 -87.888191,-34.544426 -70.840836,-58.113369"
+              class="Lawyers Lobbyists Landrieu, Mary L (LA)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -54.536869,43.427383 C -68.554253,28.223814 -66.774963,-15.607606 -51.571392,-29.624985"
+              class="Lawyers Lobbyists Markey, Ed (MA)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -54.536869,43.427383 C -42.438412,17.892143 14.012129,-2.263037 39.547371,9.835420"
+              class="Lawyers Lobbyists McConnell, Mitch (KY)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -54.536869,43.427383 C -71.683243,40.607841 -93.173470,10.658971 -90.353928,-6.487398"
+              class="Lawyers Lobbyists Peters, Gary (MI)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -54.536869,43.427383 C -43.676723,44.752716 -29.374496,63.030930 -30.699827,73.891083"
+              class="Lawyers Lobbyists Pryor, Mark (AR)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -54.536869,43.427383 C -49.329590,39.279797 -35.297295,40.869335 -31.149706,46.076614"
+              class="Lawyers Lobbyists Schatz, Brian (HI)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -54.536869,43.427383 C -51.562473,34.094719 -33.101875,24.557318 -23.769211,27.531717"
+              class="Lawyers Lobbyists Shaheen, Jeanne (NH)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -54.536869,43.427383 C -54.019749,17.290716 -14.039063,-21.138603 12.097606,-20.621483"
+              class="Lawyers Lobbyists Udall, MarkCO"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -54.536869,43.427383 C -63.534355,37.003071 -67.394112,13.870369 -60.969795,4.872884"
+              class="Lawyers Lobbyists Udall, Tom (NM)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -54.536869,43.427383 C -60.610157,21.364799 -36.626213,-20.839010 -14.563627,-26.912298"
+              class="Lawyers Lobbyists Warner, MarkVA"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -104.364182,38.501072 C -96.637871,22.330090 -60.791927,9.663081 -44.620945,17.389393"
+              class="Labor Begich, MarkAK" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -104.364182,38.501072 C -102.530861,47.918026 -113.906319,64.793434 -123.323273,66.626755"
+              class="Labor Bishop, Timothy H (NY)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -104.364182,38.501072 C -109.374512,33.093906 -108.779243,17.467670 -103.372078,12.457345"
+              class="Labor Braley, Bruce (IA)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -104.364182,38.501072 C -98.493546,41.239403 -93.795082,54.152851 -96.533409,60.023491"
+              class="Labor Bustos, Cheri (IL)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -104.364182,38.501072 C -88.249481,41.367790 -68.377495,69.839920 -71.244209,85.954620"
+              class="Labor Connolly, Gerry (VA)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -104.364182,38.501072 C -113.420891,41.613075 -131.673965,32.696011 -134.785965,23.639299"
+              class="Labor DeLauro, Rosa L (CT)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -104.364182,38.501072 C -114.630966,34.010239 -123.294884,11.873820 -118.804054,1.607038"
+              class="Labor Duckworth, Tammy (IL)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -104.364182,38.501072 C -101.430794,43.779678 -104.948608,56.097672 -110.227211,59.031059"
+              class="Labor Garamendi, John (CA)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -104.364182,38.501072 C -109.962753,45.388634 -128.691940,47.322124 -135.579514,41.723557"
+              class="Labor Grimm, Michael (NY)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -104.364182,38.501072 C -110.456200,37.849857 -118.617409,27.735004 -117.966187,21.642984"
+              class="Labor Hoyer, Steny H (MD)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -104.364182,38.501072 C -109.483170,41.628136 -121.852257,38.640236 -124.979317,33.521244"
+              class="Labor Israel, Steve (NY)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -104.364182,38.501072 C -106.301071,44.240780 -117.815971,49.945000 -123.555672,48.008110"
+              class="Labor Kirkpatrick, Ann (AZ)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -104.364182,38.501072 C -95.294563,44.112301 -90.106964,66.133583 -95.718193,75.203201"
+              class="Labor LoBiondo, Frank A (NJ)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -104.364182,38.501072 C -114.669540,29.613113 -116.795631,0.823146 -107.907677,-9.482209"
+              class="Labor Lynch, Stephen F (MA)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -104.364182,38.501072 C -107.430840,14.317302 -75.755165,-26.558331 -51.571392,-29.624985"
+              class="Labor Markey, Ed (MA)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -104.364182,38.501072 C -106.436668,48.015587 -123.817162,59.178635 -133.331680,57.106152"
+              class="Labor Pelosi, Nancy (CA)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -104.364182,38.501072 C -110.559830,26.701328 -102.153671,-0.291755 -90.353928,-6.487398"
+              class="Labor Peters, Gary (MI)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -104.364182,38.501072 C -82.553307,30.846205 -38.354694,52.080208 -30.699827,73.891083"
+              class="Labor Pryor, Mark (AR)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -104.364182,38.501072 C -99.041153,35.624882 -86.742325,39.295135 -83.866135,44.618164"
+              class="Labor Rahall, Nick (WV)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -104.364182,38.501072 C -114.236122,37.762676 -127.936432,21.847174 -127.198036,11.975235"
+              class="Labor Tierney, John F (MA)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.481438,-39.237450 C 89.622513,-32.543682 64.793472,-37.291424 58.099705,-47.150352"
+              class="Healthcare Alexander, Lamar (TN)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.481438,-39.237450 C 113.534210,-3.288863 80.690491,71.713165 44.741901,85.765938"
+              class="Healthcare Boehner, John (OH)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.481438,-39.237450 C 77.027916,-34.042351 35.554977,-59.929977 30.359879,-82.383499"
+              class="Healthcare Booker, Cory (NJ)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.481438,-39.237450 C 90.666718,-46.739353 88.697502,-71.214279 96.199402,-80.028999"
+              class="Healthcare Brady, Kevin (TX)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.481438,-39.237450 C 104.662987,-42.014271 116.600555,-38.407181 119.377380,-33.225628"
+              class="Healthcare Burgess, Michael (TX)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.481438,-39.237450 C 105.355209,-36.879425 110.628830,-24.531729 108.270805,-18.657957"
+              class="Healthcare Camp, Dave (MI)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.481438,-39.237450 C 99.443733,-28.446312 83.200470,-12.316154 72.409332,-12.353858"
+              class="Healthcare Cantor, Eric (VA)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.481438,-39.237450 C 72.443474,-16.368595 -2.416740,-22.622261 -25.285593,-49.660221"
+              class="Healthcare Cassidy, Bill (LA)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.481438,-39.237450 C 98.884918,-2.219027 42.462517,52.413834 5.444092,51.817314"
+              class="Healthcare Cornyn, Johnathan (TX)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.481438,-39.237450 C 102.553528,-45.394897 116.397827,-50.022934 122.555275,-46.950848"
+              class="Healthcare Gingrey, Phil (GA)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.481438,-39.237450 C 108.159424,-24.474834 99.032486,10.686073 84.269875,19.364063"
+              class="Healthcare Hagan, Kay R (NC)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.481438,-39.237450 C 71.193367,-7.104393 -19.438335,-1.336914 -51.571392,-29.624985"
+              class="Healthcare Markey, Ed (MA)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.481438,-39.237450 C 112.058319,-32.444748 120.734589,-3.390368 113.941887,9.186516"
+              class="Healthcare McCarthy, Kevin (CA)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.481438,-39.237450 C 97.309196,-17.436062 61.348755,12.007660 39.547371,9.835420"
+              class="Healthcare McConnell, Mitch (KY)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.481438,-39.237450 C 98.169388,-45.599201 105.743942,-57.109905 112.105690,-58.421959"
+              class="Healthcare Pallone, Frank Jr (NJ)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.481438,-39.237450 C 108.276482,-40.190258 122.898270,-28.426907 123.851074,-19.631861"
+              class="Healthcare Pitts, Joe (PA)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.481438,-39.237450 C 94.748558,-48.181301 101.065025,-68.696388 110.008873,-73.429268"
+              class="Healthcare Price, Tom (GA)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.481438,-39.237450 C 106.191681,-32.163483 105.646080,-11.487175 98.572113,-4.776937"
+              class="Healthcare Reid, Harry (NV)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.481438,-39.237450 C 93.979095,-43.311752 91.837021,-57.676727 95.911324,-63.179077"
+              class="Healthcare Schumer, Charles E (NY)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.481438,-39.237450 C 81.720543,-43.695282 61.765949,-77.023369 66.223778,-94.784264"
+              class="Healthcare Upton, Fred (MI)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 73.135941,-63.688446 C 97.348007,-28.118761 80.311584,61.553867 44.741901,85.765938"
+              class="Finance Boehner, John (OH)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 73.135941,-63.688446 C 60.841717,-58.872246 35.176083,-70.089272 30.359879,-82.383499"
+              class="Finance Booker, Cory (NJ)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 73.135941,-63.688446 C 83.257538,-53.276207 82.821579,-22.475456 72.409332,-12.353858"
+              class="Finance Cantor, Eric (VA)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 73.135941,-63.688446 C 45.804398,-54.292664 -9.286605,-81.196312 -18.682388,-108.527855"
+              class="Finance Capito, Shelley Moore (WV)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 73.135941,-63.688446 C 82.698723,-27.048925 42.083614,42.254532 5.444092,51.817314"
+              class="Finance Cornyn, Johnathan (TX)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 73.135941,-63.688446 C 50.609516,-40.816143 -17.488569,-40.297333 -40.360870,-62.823757"
+              class="Finance Cotton, Tom (AR)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 73.135941,-63.688446 C 61.543026,-70.525856 54.409763,-98.171333 61.247169,-109.764252"
+              class="Finance Crowley, Joseph (NY)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 73.135941,-63.688446 C 59.828259,-16.129259 -31.472050,35.247986 -79.031235,21.940304"
+              class="Finance Graham, Lindsey (SC)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 73.135941,-63.688446 C 91.973228,-49.304729 98.653595,0.526774 84.269875,19.364063"
+              class="Finance Hagan, Kay R (NC)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 73.135941,-63.688446 C 56.582657,-68.794693 39.412090,-101.283989 44.518333,-117.837273"
+              class="Finance Hensarling, Jeb (TX)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 73.135941,-63.688446 C 55.007164,-31.934288 -19.817232,-11.496208 -51.571392,-29.624985"
+              class="Finance Markey, Ed (MA)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 73.135941,-63.688446 C 95.872116,-57.274643 120.355690,-13.549665 113.941887,9.186516"
+              class="Finance McCarthy, Kevin (CA)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 73.135941,-63.688446 C 81.123001,-42.265961 60.969856,1.848361 39.547371,9.835420"
+              class="Finance McConnell, Mitch (KY)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 73.135941,-63.688446 C 51.878174,-19.550262 -46.215744,14.770367 -90.353928,-6.487398"
+              class="Finance Peters, Gary (MI)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 73.135941,-63.688446 C 78.622871,-58.645378 79.288651,-42.850388 74.245583,-37.363464"
+              class="Finance Portman, Rob (OH)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 73.135941,-63.688446 C 41.436234,-43.291367 -36.708939,-60.245308 -57.106014,-91.945015"
+              class="Finance Ryan, Paul (WI)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 73.135941,-63.688446 C 77.792892,-68.141647 91.458122,-67.836029 95.911324,-63.179077"
+              class="Finance Schumer, Charles E (NY)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 73.135941,-63.688446 C 62.597477,-47.277569 22.173466,-38.468948 5.762589,-49.007412"
+              class="Finance Scott, Tim (SC)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 73.135941,-63.688446 C 70.063347,-69.521568 74.204132,-82.880127 80.037254,-85.952721"
+              class="Finance Toomey, Pat (PA)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 73.135941,-63.688446 C 62.951252,-38.793304 10.331517,-16.727613 -14.563627,-26.912298"
+              class="Finance Warner, MarkVA" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -33.326939,-88.679657 C -14.371929,-65.207047 -21.148335,-1.565616 -44.620945,17.389393"
+              class="Energy Begich, MarkAK" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -33.326939,-88.679657 C 17.175947,-69.404305 64.017250,35.263054 44.741901,85.765938"
+              class="Energy Boehner, John (OH)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -33.326939,-88.679657 C 3.085477,-94.561752 66.527237,-48.766273 72.409332,-12.353858"
+              class="Energy Cantor, Eric (VA)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -33.326939,-88.679657 C -34.367668,-95.578209 -25.580936,-107.487122 -18.682388,-108.527855"
+              class="Energy Capito, Shelley Moore (WV)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -33.326939,-88.679657 C -23.914783,-82.484039 -19.089973,-59.072376 -25.285593,-49.660221"
+              class="Energy Cassidy, Bill (LA)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -33.326939,-88.679657 C 2.526663,-68.334465 25.789282,15.963713 5.444092,51.817314"
+              class="Energy Cornyn, Johnathan (TX)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -33.326939,-88.679657 C -29.562546,-82.101692 -33.782902,-66.588150 -40.360870,-62.823757"
+              class="Energy Cotton, Tom (AR)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -33.326939,-88.679657 C -24.780933,-65.206680 -47.171394,-17.178215 -70.644371,-8.632211"
+              class="Energy Daines, Steven (MT)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -33.326939,-88.679657 C -6.302633,-54.299435 -17.336508,37.807362 -51.716732,64.831665"
+              class="Energy Inhofe, James M (OK)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -33.326939,-88.679657 C -33.108940,-100.220451 -15.470749,-117.204643 -3.929954,-116.986649"
+              class="Energy Johnson, Bill (OH)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -33.326939,-88.679657 C -34.716461,-75.063622 -57.224796,-56.723843 -70.840836,-58.113369"
+              class="Energy Landrieu, Mary L (LA)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -33.326939,-88.679657 C 15.700066,-98.560188 104.061356,-39.840488 113.941887,9.186516"
+              class="Energy McCarthy, Kevin (CA)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -33.326939,-88.679657 C 0.950939,-83.551498 44.675522,-24.442457 39.547371,9.835420"
+              class="Energy McConnell, Mitch (KY)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -33.326939,-88.679657 C -29.664402,-102.339523 -3.680790,-117.335533 9.979081,-113.672997"
+              class="Energy Pompeo, Mike (KS)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -33.326939,-88.679657 C -0.287369,-56.690929 1.288898,40.851513 -30.699827,73.891083"
+              class="Energy Pryor, Mark (AR)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -33.326939,-88.679657 C -17.574585,-88.563118 5.879132,-64.759766 5.762589,-49.007412"
+              class="Energy Scott, Tim (SC)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -33.326939,-88.679657 C -10.630396,-84.152931 16.624332,-43.318024 12.097606,-20.621483"
+              class="Energy Udall, MarkCO" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -33.326939,-88.679657 C -14.637715,-109.810730 45.092712,-113.473480 66.223778,-94.784264"
+              class="Energy Upton, Fred (MI)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -33.326939,-88.679657 C -28.867401,-93.985840 -14.218826,-95.255798 -8.912646,-90.796265"
+              class="Energy Vitter, David (LA)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -33.326939,-88.679657 C -30.123497,-97.833862 -11.587027,-106.760010 -2.432822,-103.556564"
+              class="Energy Whitfield, Ed (KY)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -30.311377,102.610909 C -18.669716,84.231255 26.362253,74.124275 44.741901,85.765938"
+              class="Defense Boehner, John (OH)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -30.311377,102.610909 C -41.829201,107.466217 -66.388901,97.472450 -71.244209,85.954620"
+              class="Defense Connolly, Gerry (VA)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -30.311377,102.610909 C -33.319000,85.301094 -11.865723,54.824944 5.444092,51.817314"
+              class="Defense Cornyn, Johnathan (TX)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -30.311377,102.610909 C -25.292086,99.043556 -12.412126,101.221474 -8.844776,106.240761"
+              class="Defense Courtney, Joe (CT)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -30.311377,102.610909 C -37.589722,105.443405 -52.755981,98.774643 -55.588478,91.496300"
+              class="Defense Durbin, Dick (IL)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -30.311377,102.610909 C -32.821156,111.373543 -49.729778,120.752815 -58.492413,118.243034"
+              class="Defense Forbes, Randy (VA)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -30.311377,102.610909 C -30.342613,108.470963 -39.179558,117.214195 -45.039616,117.182953"
+              class="Defense Frelinghuysen, Rodney (NJ)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -30.311377,102.610909 C -56.189468,96.220764 -85.421387,47.818398 -79.031235,21.940304"
+              class="Defense Graham, Lindsey (SC)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -30.311377,102.610909 C -24.502747,104.808411 -19.086040,116.817596 -21.283539,122.626228"
+              class="Defense Granger, Kay (TX)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -30.311377,102.610909 C -28.099182,96.600571 -15.765376,90.903343 -9.755033,93.115540"
+              class="Defense Hunter, Duncan D (CA)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -30.311377,102.610909 C -42.148300,99.336136 -54.991512,76.668587 -51.716732,64.831665"
+              class="Defense Inhofe, James M (OK)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -30.311377,102.610909 C -27.181837,92.326569 -7.061027,81.594376 3.223309,84.723915"
+              class="Defense Kingston, Jack (GA)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -30.311377,102.610909 C -26.807526,107.765503 -29.283646,120.753174 -34.438244,124.257027"
+              class="Defense McKeon, Buck (CA)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -30.311377,102.610909 C -23.081051,108.295052 -20.761780,127.666756 -26.445923,134.897079"
+              class="Defense Moran, Jim (VA)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -30.311377,102.610909 C -38.683441,109.474014 -61.536190,107.210564 -68.399292,98.838501"
+              class="Defense Reed, Jack (RI)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -30.311377,102.610909 C -29.968109,113.783005 -46.211346,131.056030 -57.383434,131.399307"
+              class="Defense Ruppersberger, Dutch (MD)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -30.311377,102.610909 C -27.266924,111.459244 -35.972748,129.298431 -44.821087,132.342880"
+              class="Defense Smith, Adam (WA)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -30.311377,102.610909 C -33.968983,107.821877 -47.271843,110.151924 -52.482807,106.494316"
+              class="Defense Thornberry, Mac (TX)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -30.311377,102.610909 C -21.402344,102.924423 -8.509064,116.758247 -8.822579,125.667282"
+              class="Defense Visclosky, Pete (IN)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -30.311377,102.610909 C -36.396797,112.395065 -60.201164,117.943176 -69.985321,111.857750"
+              class="Defense Wittman, Rob (VA)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -99.604164,-30.174856 C -71.458488,-65.110725 23.163832,-75.296028 58.099705,-47.150352"
+              class="Construction Alexander, Lamar (TN)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -99.604164,-30.174856 C -47.546791,-35.855911 39.060844,33.708565 44.741901,85.765938"
+              class="Construction Boehner, John (OH)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -99.604164,-30.174856 C -84.053085,-66.609390 -6.074659,-97.934586 30.359879,-82.383499"
+              class="Construction Booker, Cory (NJ)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -99.604164,-30.174856 C -99.090408,-62.029812 -50.537346,-109.041611 -18.682388,-108.527855"
+              class="Construction Capito, Shelley Moore (WV)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -99.604164,-30.174856 C -88.637520,-48.935646 -44.046379,-60.626865 -25.285593,-49.660221"
+              class="Construction Cassidy, Bill (LA)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -99.604164,-30.174856 C -62.196075,-34.786072 0.832876,14.409225 5.444092,51.817314"
+              class="Construction Cornyn, Johnathan (TX)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -99.604164,-30.174856 C -94.285286,-48.553295 -58.739311,-68.142632 -40.360870,-62.823757"
+              class="Construction Cotton, Tom (AR)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -99.604164,-30.174856 C -89.503677,-31.658285 -72.127808,-18.732698 -70.644371,-8.632211"
+              class="Construction Daines, Steven (MT)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -99.604164,-30.174856 C -85.066544,-23.866409 -72.722786,7.402686 -79.031235,21.940304"
+              class="Construction Graham, Lindsey (SC)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -99.604164,-30.174856 C -103.978966,-37.642540 -99.339638,-55.406265 -91.871956,-59.781067"
+              class="Construction Hanabusa, Colleen (HI)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -99.604164,-30.174856 C -71.025375,-20.751038 -42.292915,36.252872 -51.716732,64.831665"
+              class="Construction Inhofe, James M (OK)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -99.604164,-30.174856 C -99.439201,-41.515224 -82.181198,-58.278332 -70.840836,-58.113369"
+              class="Construction Landrieu, Mary L (LA)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -99.604164,-30.174856 C -97.126343,-24.375626 -102.108444,-11.960036 -107.907677,-9.482209"
+              class="Construction Lynch, Stephen F (MA)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -99.604164,-30.174856 C -89.887634,-39.671436 -61.067974,-39.341515 -51.571392,-29.624985"
+              class="Construction Markey, Ed (MA)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -99.604164,-30.174856 C -63.771801,-50.003113 19.719116,-25.996944 39.547371,9.835420"
+              class="Construction McConnell, Mitch (KY)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -99.604164,-30.174856 C -105.564560,-40.997253 -98.271561,-66.171448 -87.449165,-72.131851"
+              class="Construction Murphy, Patrick E (FL)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -99.604164,-30.174856 C -103.458572,-51.028519 -77.959679,-88.090607 -57.106014,-91.945015"
+              class="Construction Ryan, Paul (WI)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -99.604164,-30.174856 C -70.662971,-28.615454 -29.590305,17.135429 -31.149706,46.076614"
+              class="Construction Schatz, Brian (HI)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -99.604164,-30.174856 C -83.174988,-35.296772 -50.848351,-18.335880 -45.726433,-1.906704"
+              class="Construction Shuster, Bill (PA)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M -99.604164,-30.174856 C -100.505066,-36.054779 -93.036545,-46.226013 -87.156624,-47.126915"
+              class="Construction Yoder, Kevin (KS)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 62.850914,46.547382 C 35.524948,62.210159 -28.958172,44.715363 -44.620945,17.389393"
+              class="Communications/Electronics Begich, MarkAK"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 62.850914,46.547382 C 67.072823,58.012897 56.207417,81.544029 44.741901,85.765938"
+              class="Communications/Electronics Boehner, John (OH)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 62.850914,46.547382 C 30.566530,27.259413 11.071909,-50.099113 30.359879,-82.383499"
+              class="Communications/Electronics Booker, Cory (NJ)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 62.850914,46.547382 C 52.982346,32.855453 58.717400,-2.485293 72.409332,-12.353858"
+              class="Communications/Electronics Cantor, Eric (VA)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 62.850914,46.547382 C 58.624763,51.922527 44.222816,53.646015 38.847672,49.419865"
+              class="Communications/Electronics Coons, Chris (DE)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 62.850914,46.547382 C 52.423534,59.082733 17.979443,62.244694 5.444092,51.817314"
+              class="Communications/Electronics Cornyn, Johnathan (TX)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 62.850914,46.547382 C 68.869446,37.986385 90.738747,34.172684 99.299744,40.191216"
+              class="Communications/Electronics Eshoo, Anna (CA)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 62.850914,46.547382 C 43.584324,52.446136 5.836298,32.394379 -0.062457,13.127785"
+              class="Communications/Electronics Franken, Al (MN)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 62.850914,46.547382 C 69.508400,48.622681 76.381683,61.721855 74.306381,68.379341"
+              class="Communications/Electronics Goodlatte, Bob (VA)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 62.850914,46.547382 C 61.698040,36.826927 74.549423,20.516935 84.269875,19.364063"
+              class="Communications/Electronics Hagan, Kay R (NC)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 62.850914,46.547382 C 24.731981,54.197372 -43.921402,8.493948 -51.571392,-29.624985"
+              class="Communications/Electronics Markey, Ed (MA)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 62.850914,46.547382 C 65.596931,28.857016 96.251518,6.440495 113.941887,9.186516"
+              class="Communications/Electronics McCarthy, Kevin (CA)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 62.850914,46.547382 C 50.847813,43.865700 36.865688,21.838520 39.547371,9.835420"
+              class="Communications/Electronics McConnell, Mitch (KY)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 62.850914,46.547382 C 49.609505,70.726273 -6.520937,87.132492 -30.699827,73.891083"
+              class="Communications/Electronics Pryor, Mark (AR)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 62.850914,46.547382 C 59.730293,29.138281 81.163010,-1.656314 98.572113,-4.776937"
+              class="Communications/Electronics Reid, Harry (NV)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 62.850914,46.547382 C 41.723759,60.068275 -10.248320,48.658875 -23.769211,27.531717"
+              class="Communications/Electronics Shaheen, Jeanne (NH)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 62.850914,46.547382 C 39.266479,43.264271 8.814495,2.962952 12.097606,-20.621483"
+              class="Communications/Electronics Udall, MarkCO"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 62.850914,46.547382 C 66.807480,41.495777 80.319733,39.853210 85.371346,43.809776"
+              class="Communications/Electronics Walden, Greg (OR)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 62.850914,46.547382 C 32.676067,47.338356 -13.772654,3.262548 -14.563627,-26.912298"
+              class="Communications/Electronics Warner, MarkVA"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 62.850914,46.547382 C 68.492332,34.211445 95.458382,24.169678 107.794319,29.811102"
+              class="Communications/Electronics Waxman, Henry (CA)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 40.457134,-32.219471 C 40.999474,-38.734161 51.585014,-47.692692 58.099705,-47.150352"
+              class="Business Alexander, Lamar (TN)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 40.457134,-32.219471 C 64.911171,-9.479342 67.482033,61.311901 44.741901,85.765938"
+              class="Business Boehner, John (OH)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 40.457134,-32.219471 C 28.404877,-40.232826 22.346523,-70.331238 30.359879,-82.383499"
+              class="Business Booker, Cory (NJ)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 40.457134,-32.219471 C 56.732174,-43.069904 97.420372,-34.932995 108.270805,-18.657957"
+              class="Business Camp, Dave (MI)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 40.457134,-32.219471 C 50.820694,-34.636787 69.992012,-22.717421 72.409332,-12.353858"
+              class="Business Cantor, Eric (VA)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 40.457134,-32.219471 C 50.261883,-8.409505 29.254059,42.012566 5.444092,51.817314"
+              class="Business Cornyn, Johnathan (TX)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 40.457134,-32.219471 C 41.422668,-15.046103 17.110912,12.162251 -0.062457,13.127785"
+              class="Business Franken, Al (MN)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 40.457134,-32.219471 C 27.391415,2.510159 -44.301605,35.006023 -79.031235,21.940304"
+              class="Business Graham, Lindsey (SC)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 40.457134,-32.219471 C 59.536388,-30.665312 85.824036,0.284807 84.269875,19.364063"
+              class="Business Hagan, Kay R (NC)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 40.457134,-32.219471 C 13.018759,-15.138655 -53.760017,-30.674994 -70.840836,-58.113369"
+              class="Business Landrieu, Mary L (LA)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 40.457134,-32.219471 C 22.570328,-13.294868 -32.646790,-11.738178 -51.571392,-29.624985"
+              class="Business Markey, Ed (MA)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 40.457134,-32.219471 C 63.435287,-38.635223 107.526131,-13.791636 113.941887,9.186516"
+              class="Business McCarthy, Kevin (CA)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 40.457134,-32.219471 C 48.686157,-23.626539 48.140305,1.606394 39.547371,9.835420"
+              class="Business McConnell, Mitch (KY)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 40.457134,-32.219471 C 46.186028,-40.005959 66.459091,-43.092358 74.245583,-37.363464"
+              class="Business Portman, Rob (OH)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 40.457134,-32.219471 C 47.447853,3.234033 4.753677,66.900368 -30.699827,73.891083"
+              class="Business Pryor, Mark (AR)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 40.457134,-32.219471 C 57.568638,-38.353962 92.437630,-21.888441 98.572113,-4.776937"
+              class="Business Reid, Harry (NV)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 40.457134,-32.219471 C 30.160639,-28.638151 9.343910,-38.710915 5.762589,-49.007412"
+              class="Business Scott, Tim (SC)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 40.457134,-32.219471 C 37.626507,-50.882145 61.374580,-83.122093 80.037254,-85.952721"
+              class="Business Toomey, Pat (PA)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 40.457134,-32.219471 C 37.104828,-24.227968 20.089109,-17.269175 12.097606,-20.621483"
+              class="Business Udall, MarkCO" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 40.457134,-32.219471 C 30.514418,-20.153885 -2.498041,-16.969582 -14.563627,-26.912298"
+              class="Business Warner, MarkVA" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.869560,63.555996 C 93.286011,79.023514 60.209423,92.349487 44.741901,85.765938"
+              class="Agriculture Boehner, John (OH)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.869560,63.555996 C 106.667274,78.489288 94.463913,111.085800 79.530624,117.883514"
+              class="Agriculture Cochran, Thad (MS)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.869560,63.555996 C 105.733040,62.057529 116.775963,68.605057 118.274422,74.468536"
+              class="Agriculture Conaway, Mike (TX)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.869560,63.555996 C 78.636734,80.093353 21.981449,73.050140 5.444092,51.817314"
+              class="Agriculture Cornyn, Johnathan (TX)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.869560,63.555996 C 102.695854,85.322792 74.285088,122.212425 52.518291,125.038719"
+              class="Agriculture Costa, Jim (CA)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.869560,63.555996 C 99.520905,70.672729 88.322815,80.824837 81.206078,80.476181"
+              class="Agriculture Davis, Rodney (IL)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.869560,63.555996 C 88.722908,89.425583 33.198563,111.510010 7.328967,100.363358"
+              class="Agriculture Denham, Jeff (CA)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.869560,63.555996 C 103.291550,68.634010 100.807526,81.384018 95.729515,84.806007"
+              class="Agriculture Fincher, Steve (TN)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.869560,63.555996 C 87.911240,57.837547 78.551422,31.322388 84.269875,19.364063"
+              class="Agriculture Hagan, Kay R (NC)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.869560,63.555996 C 84.773895,87.118835 26.786142,99.819580 3.223309,84.723915"
+              class="Agriculture Kingston, Jack (GA)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.869560,63.555996 C 98.581909,57.420235 105.854073,46.285114 111.989838,44.997467"
+              class="Agriculture Latham, Tom (IA)" stroke-opacity="0.49803922"
+              stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.869560,63.555996 C 107.440514,68.575996 111.266922,87.462425 106.246918,95.033379"
+              class="Agriculture Lucas, Frank D (OK)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.869560,63.555996 C 91.810135,49.867634 100.253525,17.245947 113.941887,9.186516"
+              class="Agriculture McCarthy, Kevin (CA)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.869560,63.555996 C 77.061005,64.876320 40.867691,32.643974 39.547371,9.835420"
+              class="Agriculture McConnell, Mitch (KY)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.869560,63.555996 C 94.612915,65.966316 83.112480,61.696827 80.702164,56.440186"
+              class="Agriculture Noem, Kristi (SD)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.869560,63.555996 C 102.956070,80.450615 82.243927,110.422318 65.349312,113.508827"
+              class="Agriculture Nunes, Devin (CA)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.869560,63.555996 C 102.497925,72.868118 92.472290,90.778847 83.160164,93.407211"
+              class="Agriculture Peterson, Collin (MN)"
+              stroke-opacity="0.49803922" stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.869560,63.555996 C 75.822701,91.736893 -2.518934,97.937943 -30.699827,73.891083"
+              class="Agriculture Pryor, Mark (AR)" stroke-opacity="0.49803922"
+              stroke="#3f649d"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.869560,63.555996 C 103.466370,76.633507 89.245331,101.644981 76.167824,105.241791"
+              class="Agriculture Simpson, Mike (ID)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+        <path fill="none" stroke-width="0.5"
+              d="M 99.869560,63.555996 C 106.417694,72.440918 102.912506,95.590500 94.027580,102.138634"
+              class="Agriculture Valadao, David (CA)"
+              stroke-opacity="0.49803922" stroke="#b43030"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#b43030" r="2.9354186" cx="58.099705"
+                class="Alexander, Lamar (TN)" cy="-47.150352" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="4.4952364" cx="-44.620945"
+                class="Begich, MarkAK" cy="17.389393" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.1484501" cx="-123.32327"
+                class="Bishop, Timothy H (NY)" cy="66.626755" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="18.418688" cx="44.7419"
+                class="Boehner, John (OH)" cy="85.76594" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="20.0" cx="30.359879"
+                class="Booker, Cory (NJ)" cy="-82.3835" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.677784" cx="96.1994"
+                class="Brady, Kevin (TX)" cy="-80.029" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="4.761462" cx="-103.37208"
+                class="Braley, Bruce (IA)" cy="12.457345" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.6071217" cx="119.37738"
+                class="Burgess, Michael (TX)" cy="-33.225628" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.1626402" cx="-96.53341"
+                class="Bustos, Cheri (IL)" cy="60.02349" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="2.5831769" cx="108.270805"
+                class="Camp, Dave (MI)" cy="-18.657957" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="7.2222433" cx="72.40933"
+                class="Cantor, Eric (VA)" cy="-12.353858" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="4.202298" cx="-18.682388"
+                class="Capito, Shelley Moore (WV)" cy="-108.527855"
+                stroke="#000000" stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="3.3913286" cx="-25.285593"
+                class="Cassidy, Bill (LA)" cy="-49.66022" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.3131359" cx="79.530624"
+                class="Cochran, Thad (MS)" cy="117.883514" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.3383986" cx="-38.216022"
+                class="Coffman, Mike (CO)" cy="-109.93929" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="2.1732166" cx="-72.78473"
+                class="Collins, Susan M (ME)" cy="-79.075516" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.4916711" cx="118.27442"
+                class="Conaway, Mike (TX)" cy="74.46854" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.3226607" cx="-71.24421"
+                class="Connolly, Gerry (VA)" cy="85.95462" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="2.918408" cx="38.84767"
+                class="Coons, Chris (DE)" cy="49.419865" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="16.182596" cx="5.4440923"
+                class="Cornyn, Johnathan (TX)" cy="51.817314" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.257168" cx="52.51829"
+                class="Costa, Jim (CA)" cy="125.03872" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="4.476837" cx="-40.36087"
+                class="Cotton, Tom (AR)" cy="-62.823757" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.0" cx="-8.844776"
+                class="Courtney, Joe (CT)" cy="106.24076" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="2.1690927" cx="61.24717"
+                class="Crowley, Joseph (NY)" cy="-109.76425" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="2.0156107" cx="-70.64437"
+                class="Daines, Steven (MT)" cy="-8.632211" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.1827006" cx="81.20608"
+                class="Davis, Rodney (IL)" cy="80.47618" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.1784676" cx="-134.78596"
+                class="DeLauro, Rosa L (CT)" cy="23.6393" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.9293588" cx="7.328967"
+                class="Denham, Jeff (CA)" cy="100.36336" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.1429924" cx="-118.804054"
+                class="Duckworth, Tammy (IL)" cy="1.6070375" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="2.4434505" cx="-55.588478"
+                class="Durbin, Dick (IL)" cy="91.4963" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.1971111" cx="99.29974"
+                class="Eshoo, Anna (CA)" cy="40.191216" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.3516194" cx="95.729515"
+                class="Fincher, Steve (TN)" cy="84.80601" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.0158274" cx="-58.492413"
+                class="Forbes, Randy (VA)" cy="118.243034" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.3576076" cx="-52.63732"
+                class="Foster, Bill (IL)" cy="-107.620834" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="6.1200447"
+                cx="-0.062456846" class="Franken, Al (MN)" cy="13.127785"
+                stroke="#000000" stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.0136443" cx="-45.039616"
+                class="Frelinghuysen, Rodney (NJ)" cy="117.18295"
+                stroke="#000000" stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.1206157" cx="-110.22721"
+                class="Garamendi, John (CA)" cy="59.03106" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.6372986" cx="122.555275"
+                class="Gingrey, Phil (GA)" cy="-46.950848" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.507658" cx="74.30638"
+                class="Goodlatte, Bob (VA)" cy="68.37934" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="8.293584" cx="-79.031235"
+                class="Graham, Lindsey (SC)" cy="21.940304" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.0267428" cx="-21.283539"
+                class="Granger, Kay (TX)" cy="122.62623" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.0594893" cx="-58.908306"
+                class="Graves, Sam (MO)" cy="77.62145" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.1280993" cx="-135.57951"
+                class="Grimm, Michael (NY)" cy="41.723557" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="9.628741" cx="84.269875"
+                class="Hagan, Kay R (NC)" cy="19.364063" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.0266337" cx="-91.871956"
+                class="Hanabusa, Colleen (HI)" cy="-59.781067"
+                stroke="#000000" stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="3.1582508" cx="44.518333"
+                class="Hensarling, Jeb (TX)" cy="-117.83727" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.8871577" cx="-57.105537"
+                class="Holt, Rush (NJ)" cy="-73.99666" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.2036277" cx="-117.96619"
+                class="Hoyer, Steny H (MD)" cy="21.642984" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.2958415" cx="-9.7550335"
+                class="Hunter, Duncan D (CA)" cy="93.11554" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="2.2243533" cx="-51.716732"
+                class="Inhofe, James M (OK)" cy="64.831665" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.1828338" cx="-124.97932"
+                class="Israel, Steve (NY)" cy="33.521244" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.2608291" cx="-3.9299543"
+                class="Johnson, Bill (OH)" cy="-116.98665" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="2.1505647" cx="3.2233093"
+                class="Kingston, Jack (GA)" cy="84.723915" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.1981155" cx="-123.55567"
+                class="Kirkpatrick, Ann (AZ)" cy="48.00811" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.3507199" cx="-74.22931"
+                class="Kline, John (MN)" cy="-93.61449" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="6.197184" cx="-70.840836"
+                class="Landrieu, Mary L (LA)" cy="-58.11337" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.1494085" cx="111.98984"
+                class="Latham, Tom (IA)" cy="44.997467" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.5676689" cx="-95.71819"
+                class="LoBiondo, Frank A (NJ)" cy="75.2032" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.4396744" cx="106.24692"
+                class="Lucas, Frank D (OK)" cy="95.03338" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.4621601" cx="-107.90768"
+                class="Lynch, Stephen F (MA)" cy="-9.482209" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="12.455012" cx="-51.571392"
+                class="Markey, Ed (MA)" cy="-29.624985" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="5.2983994" cx="113.94189"
+                class="McCarthy, Kevin (CA)" cy="9.186516" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="15.675543" cx="39.54737"
+                class="McConnell, Mitch (KY)" cy="9.83542" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.1512882" cx="-34.438244"
+                class="McKeon, Buck (CA)" cy="124.25703" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.1501966" cx="-26.445923"
+                class="Moran, Jim (VA)" cy="134.89708" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.1370981" cx="-87.449165"
+                class="Murphy, Patrick E (FL)" cy="-72.13185" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.1315268" cx="80.70216"
+                class="Noem, Kristi (SD)" cy="56.440186" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.1422284" cx="65.34931"
+                class="Nunes, Devin (CA)" cy="113.50883" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.7504852" cx="112.10569"
+                class="Pallone, Frank Jr (NJ)" cy="-58.42196" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.1937492" cx="-133.33168"
+                class="Pelosi, Nancy (CA)" cy="57.10615" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="4.7898116" cx="-90.35393"
+                class="Peters, Gary (MI)" cy="-6.4873977" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.353879" cx="83.160164"
+                class="Peterson, Collin (MN)" cy="93.40721" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.4622693" cx="123.851074"
+                class="Pitts, Joe (PA)" cy="-19.63186" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.4273399" cx="9.979081"
+                class="Pompeo, Mike (KS)" cy="-113.673" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="3.3107417" cx="74.24558"
+                class="Portman, Rob (OH)" cy="-37.363464" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.749123" cx="110.00887"
+                class="Price, Tom (GA)" cy="-73.42927" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="7.738557" cx="-30.699827"
+                class="Pryor, Mark (AR)" cy="73.89108" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.5821602" cx="-83.866135"
+                class="Rahall, Nick (WV)" cy="44.618164" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.0839398" cx="-68.39929"
+                class="Reed, Jack (RI)" cy="98.8385" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="3.1832669" cx="98.57211"
+                class="Reid, Harry (NV)" cy="-4.7769375" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.6254008" cx="-77.613075"
+                class="Roberts, Pat (KS)" cy="-37.4208" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.04519" cx="-57.383434"
+                class="Ruppersberger, Dutch (MD)" cy="131.3993"
+                stroke="#000000" stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="3.6546504" cx="-57.106014"
+                class="Ryan, Paul (WI)" cy="-91.945015" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="2.7015288" cx="-31.149706"
+                class="Schatz, Brian (HI)" cy="46.076614" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="2.793736" cx="95.91132"
+                class="Schumer, Charles E (NY)" cy="-63.179077"
+                stroke="#000000" stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="5.2470727" cx="5.762589"
+                class="Scott, Tim (SC)" cy="-49.007412" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.691557" cx="-77.69241"
+                class="Sessions, Pete (TX)" cy="-22.015694" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="4.7752438" cx="-23.76921"
+                class="Shaheen, Jeanne (NH)" cy="27.531717" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="2.5546875" cx="-45.726433"
+                class="Shuster, Bill (PA)" cy="-1.9067036" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.1869817" cx="76.16782"
+                class="Simpson, Mike (ID)" cy="105.24179" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.0648378" cx="-44.821087"
+                class="Smith, Adam (WA)" cy="132.34288" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.1696261" cx="-52.482807"
+                class="Thornberry, Mac (TX)" cy="106.494316" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.1850169" cx="-127.19804"
+                class="Tierney, John F (MA)" cy="11.975235" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="2.8498282" cx="80.037254"
+                class="Toomey, Pat (PA)" cy="-85.95272" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="6.752916" cx="12.097606"
+                class="Udall, MarkCO" cy="-20.621483" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="2.5489264" cx="-60.969795"
+                class="Udall, Tom (NM)" cy="4.872884" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="2.4562302" cx="66.22378"
+                class="Upton, Fred (MI)" cy="-94.78426" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.4577677" cx="94.02758"
+                class="Valadao, David (CA)" cy="102.13863" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.0249964" cx="-8.822579"
+                class="Visclosky, Pete (IN)" cy="125.66728" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.2622982" cx="-8.912646"
+                class="Vitter, David (LA)" cy="-90.796265" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.4401175" cx="85.371346"
+                class="Walden, Greg (OR)" cy="43.809776" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="6.761212" cx="-14.563627"
+                class="Warner, MarkVA" cy="-26.912298" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#3f649d" r="1.1661332" cx="107.79432"
+                class="Waxman, Henry (CA)" cy="29.811102" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.3400162" cx="-2.4328218"
+                class="Whitfield, Ed (KY)" cy="-103.556564" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.1216658" cx="-9.831708"
+                class="Williams, Roger (TX)" cy="79.46661" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.071387" cx="-69.98532"
+                class="Wittman, Rob (VA)" cy="111.85775" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#b43030" r="1.0163164" cx="-87.156624"
+                class="Yoder, Kevin (KS)" cy="-47.126915" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#ABCF62" r="7.3325987" cx="-76.2149"
+                class="Transportation" cy="65.998886" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#ABCF62" r="7.3325987" cx="-22.451317"
+                class="Single Issue" cy="-1.0804577" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#ABCF62" r="7.3325987" cx="-12.025497"
+                class="Other" cy="-68.98154" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#ABCF62" r="7.3325987" cx="-54.53687"
+                class="Lawyers Lobbyists" cy="43.427383" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#ABCF62" r="7.3325987" cx="-104.36418"
+                class="Labor" cy="38.501072" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#ABCF62" r="7.3325987" cx="99.48144"
+                class="Healthcare" cy="-39.23745" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#ABCF62" r="7.3325987" cx="73.13594"
+                class="Finance" cy="-63.688446" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#ABCF62" r="7.3325987" cx="-33.32694"
+                class="Energy" cy="-88.67966" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#ABCF62" r="7.3325987" cx="-30.311377"
+                class="Defense" cy="102.61091" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#ABCF62" r="7.3325987" cx="-99.604164"
+                class="Construction" cy="-30.174856" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#ABCF62" r="7.3325987" cx="62.850914"
+                class="Communications/Electronics" cy="46.547382"
+                stroke="#000000" stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#ABCF62" r="7.3325987" cx="40.457134"
+                class="Business" cy="-32.21947" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+        <circle fill-opacity="1.0" fill="#ABCF62" r="7.3325987" cx="99.86956"
+                class="Agriculture" cy="63.555996" stroke="#000000"
+                stroke-opacity="0.1" stroke-width="0.5"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="3" x="58.099705" y="-46.44625" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Alexander, Lamar (TN)">
+            Alexander, Lamar (TN)
+        </text>
+        <text font-size="3" x="-44.620945" y="18.093494" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Begich, MarkAK">
+            Begich, MarkAK
+        </text>
+        <text font-size="2" x="-123.32327" y="67.09616" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Bishop, Timothy H (NY)">
+            Bishop, Timothy H (NY)
+        </text>
+        <text font-size="8" x="44.7419" y="87.644196" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Boehner, John (OH)">
+            Boehner, John (OH)
+        </text>
+        <text font-size="9" x="30.359879" y="-80.271194" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Booker, Cory (NJ)">
+            Booker, Cory (NJ)
+        </text>
+        <text font-size="2" x="96.1994" y="-79.5596" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Brady, Kevin (TX)">
+            Brady, Kevin (TX)
+        </text>
+        <text font-size="3" x="-103.37208" y="13.161447" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Braley, Bruce (IA)">
+            Braley, Bruce (IA)
+        </text>
+        <text font-size="2" x="119.37738" y="-32.756226" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Burgess, Michael (TX)">
+            Burgess, Michael (TX)
+        </text>
+        <text font-size="2" x="-96.53341" y="60.49289" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Bustos, Cheri (IL)">
+            Bustos, Cheri (IL)
+        </text>
+        <text font-size="2" x="108.270805" y="-18.188557" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Camp, Dave (MI)">
+            Camp, Dave (MI)
+        </text>
+        <text font-size="4" x="72.40933" y="-11.415056" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Cantor, Eric (VA)">
+            Cantor, Eric (VA)
+        </text>
+        <text font-size="3" x="-18.682388" y="-107.82375" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Capito, Shelley Moore (WV)">
+            Capito, Shelley Moore (WV)
+        </text>
+        <text font-size="3" x="-25.285593" y="-48.95612" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Cassidy, Bill (LA)">
+            Cassidy, Bill (LA)
+        </text>
+        <text font-size="2" x="79.530624" y="118.35292" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Cochran, Thad (MS)">
+            Cochran, Thad (MS)
+        </text>
+        <text font-size="2" x="-38.216022" y="-109.46973" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Coffman, Mike (CO)">
+            Coffman, Mike (CO)
+        </text>
+        <text font-size="2" x="-72.78473" y="-78.60611" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Collins, Susan M (ME)">
+            Collins, Susan M (ME)
+        </text>
+        <text font-size="2" x="118.27442" y="74.93794" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Conaway, Mike (TX)">
+            Conaway, Mike (TX)
+        </text>
+        <text font-size="2" x="-71.24421" y="86.42403" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Connolly, Gerry (VA)">
+            Connolly, Gerry (VA)
+        </text>
+        <text font-size="3" x="38.84767" y="50.123966" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Coons, Chris (DE)">
+            Coons, Chris (DE)
+        </text>
+        <text font-size="8" x="5.4440923" y="53.694916" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Cornyn, Johnathan (TX)">
+            Cornyn, Johnathan (TX)
+        </text>
+        <text font-size="2" x="52.51829" y="125.50812" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Costa, Jim (CA)">
+            Costa, Jim (CA)
+        </text>
+        <text font-size="3" x="-40.36087" y="-62.119656" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Cotton, Tom (AR)">
+            Cotton, Tom (AR)
+        </text>
+        <text font-size="2" x="-8.844776" y="106.71016" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Courtney, Joe (CT)">
+            Courtney, Joe (CT)
+        </text>
+        <text font-size="2" x="61.24717" y="-109.294846" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Crowley, Joseph (NY)">
+            Crowley, Joseph (NY)
+        </text>
+        <text font-size="2" x="-70.64437" y="-8.162809" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Daines, Steven (MT)">
+            Daines, Steven (MT)
+        </text>
+        <text font-size="2" x="81.20608" y="80.94559" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Davis, Rodney (IL)">
+            Davis, Rodney (IL)
+        </text>
+        <text font-size="2" x="-134.78596" y="24.1087" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="DeLauro, Rosa L (CT)">
+            DeLauro, Rosa L (CT)
+        </text>
+        <text font-size="2" x="7.328967" y="100.83276" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Denham, Jeff (CA)">
+            Denham, Jeff (CA)
+        </text>
+        <text font-size="2" x="-118.804054" y="2.0764387" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Duckworth, Tammy (IL)">
+            Duckworth, Tammy (IL)
+        </text>
+        <text font-size="2" x="-55.588478" y="91.9657" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Durbin, Dick (IL)">
+            Durbin, Dick (IL)
+        </text>
+        <text font-size="2" x="99.29974" y="40.660614" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Eshoo, Anna (CA)">
+            Eshoo, Anna (CA)
+        </text>
+        <text font-size="2" x="95.729515" y="85.275406" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Fincher, Steve (TN)">
+            Fincher, Steve (TN)
+        </text>
+        <text font-size="2" x="-58.492413" y="118.71243" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Forbes, Randy (VA)">
+            Forbes, Randy (VA)
+        </text>
+        <text font-size="2" x="-52.63732" y="-107.15143" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Foster, Bill (IL)">
+            Foster, Bill (IL)
+        </text>
+        <text font-size="4" x="-0.062456846" y="14.066587" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Franken, Al (MN)">
+            Franken, Al (MN)
+        </text>
+        <text font-size="2" x="-45.039616" y="117.65236" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Frelinghuysen, Rodney (NJ)">
+            Frelinghuysen, Rodney (NJ)
+        </text>
+        <text font-size="2" x="-110.22721" y="59.500458" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Garamendi, John (CA)">
+            Garamendi, John (CA)
+        </text>
+        <text font-size="2" x="122.555275" y="-46.481445" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Gingrey, Phil (GA)">
+            Gingrey, Phil (GA)
+        </text>
+        <text font-size="2" x="74.30638" y="68.84874" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Goodlatte, Bob (VA)">
+            Goodlatte, Bob (VA)
+        </text>
+        <text font-size="5" x="-79.031235" y="23.113808" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Graham, Lindsey (SC)">
+            Graham, Lindsey (SC)
+        </text>
+        <text font-size="2" x="-21.283539" y="123.09563" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Granger, Kay (TX)">
+            Granger, Kay (TX)
+        </text>
+        <text font-size="2" x="-58.908306" y="78.09102" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Graves, Sam (MO)">
+            Graves, Sam (MO)
+        </text>
+        <text font-size="2" x="-135.57951" y="42.192955" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Grimm, Michael (NY)">
+            Grimm, Michael (NY)
+        </text>
+        <text font-size="5" x="84.269875" y="20.537565" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Hagan, Kay R (NC)">
+            Hagan, Kay R (NC)
+        </text>
+        <text font-size="2" x="-91.871956" y="-59.31167" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Hanabusa, Colleen (HI)">
+            Hanabusa, Colleen (HI)
+        </text>
+        <text font-size="3" x="44.518333" y="-117.13317" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Hensarling, Jeb (TX)">
+            Hensarling, Jeb (TX)
+        </text>
+        <text font-size="2" x="-57.105537" y="-73.52725" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Holt, Rush (NJ)">
+            Holt, Rush (NJ)
+        </text>
+        <text font-size="2" x="-117.96619" y="22.112385" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Hoyer, Steny H (MD)">
+            Hoyer, Steny H (MD)
+        </text>
+        <text font-size="2" x="-9.7550335" y="93.584946" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Hunter, Duncan D (CA)">
+            Hunter, Duncan D (CA)
+        </text>
+        <text font-size="2" x="-51.716732" y="65.30123" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Inhofe, James M (OK)">
+            Inhofe, James M (OK)
+        </text>
+        <text font-size="2" x="-124.97932" y="33.990646" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Israel, Steve (NY)">
+            Israel, Steve (NY)
+        </text>
+        <text font-size="2" x="-3.9299543" y="-116.51708" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Johnson, Bill (OH)">
+            Johnson, Bill (OH)
+        </text>
+        <text font-size="2" x="3.2233093" y="85.19331" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Kingston, Jack (GA)">
+            Kingston, Jack (GA)
+        </text>
+        <text font-size="2" x="-123.55567" y="48.47751" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Kirkpatrick, Ann (AZ)">
+            Kirkpatrick, Ann (AZ)
+        </text>
+        <text font-size="2" x="-74.22931" y="-93.14508" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Kline, John (MN)">
+            Kline, John (MN)
+        </text>
+        <text font-size="4" x="-70.840836" y="-57.17457" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Landrieu, Mary L (LA)">
+            Landrieu, Mary L (LA)
+        </text>
+        <text font-size="2" x="111.98984" y="45.466866" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Latham, Tom (IA)">
+            Latham, Tom (IA)
+        </text>
+        <text font-size="2" x="-95.71819" y="75.67261" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="LoBiondo, Frank A (NJ)">
+            LoBiondo, Frank A (NJ)
+        </text>
+        <text font-size="2" x="106.24692" y="95.502945" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Lucas, Frank D (OK)">
+            Lucas, Frank D (OK)
+        </text>
+        <text font-size="2" x="-107.90768" y="-9.012808" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Lynch, Stephen F (MA)">
+            Lynch, Stephen F (MA)
+        </text>
+        <text font-size="6" x="-51.571392" y="-28.216782" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Markey, Ed (MA)">
+            Markey, Ed (MA)
+        </text>
+        <text font-size="3" x="113.94189" y="9.890617" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="McCarthy, Kevin (CA)">
+            McCarthy, Kevin (CA)
+        </text>
+        <text font-size="7" x="39.54737" y="11.478323" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="McConnell, Mitch (KY)">
+            McConnell, Mitch (KY)
+        </text>
+        <text font-size="2" x="-34.438244" y="124.726425" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="McKeon, Buck (CA)">
+            McKeon, Buck (CA)
+        </text>
+        <text font-size="2" x="-26.445923" y="135.36649" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Moran, Jim (VA)">
+            Moran, Jim (VA)
+        </text>
+        <text font-size="2" x="-87.449165" y="-71.662445" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Murphy, Patrick E (FL)">
+            Murphy, Patrick E (FL)
+        </text>
+        <text font-size="2" x="80.70216" y="56.909584" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Noem, Kristi (SD)">
+            Noem, Kristi (SD)
+        </text>
+        <text font-size="2" x="65.34931" y="113.978226" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Nunes, Devin (CA)">
+            Nunes, Devin (CA)
+        </text>
+        <text font-size="2" x="112.10569" y="-57.95256" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Pallone, Frank Jr (NJ)">
+            Pallone, Frank Jr (NJ)
+        </text>
+        <text font-size="2" x="-133.33168" y="57.575554" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Pelosi, Nancy (CA)">
+            Pelosi, Nancy (CA)
+        </text>
+        <text font-size="3" x="-90.35393" y="-5.783296" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Peters, Gary (MI)">
+            Peters, Gary (MI)
+        </text>
+        <text font-size="2" x="83.160164" y="93.87662" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Peterson, Collin (MN)">
+            Peterson, Collin (MN)
+        </text>
+        <text font-size="2" x="123.851074" y="-19.16246" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Pitts, Joe (PA)">
+            Pitts, Joe (PA)
+        </text>
+        <text font-size="2" x="9.979081" y="-113.2036" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Pompeo, Mike (KS)">
+            Pompeo, Mike (KS)
+        </text>
+        <text font-size="3" x="74.24558" y="-36.65912" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Portman, Rob (OH)">
+            Portman, Rob (OH)
+        </text>
+        <text font-size="2" x="110.00887" y="-72.95987" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Price, Tom (GA)">
+            Price, Tom (GA)
+        </text>
+        <text font-size="4" x="-30.699827" y="74.82988" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Pryor, Mark (AR)">
+            Pryor, Mark (AR)
+        </text>
+        <text font-size="2" x="-83.866135" y="45.087563" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Rahall, Nick (WV)">
+            Rahall, Nick (WV)
+        </text>
+        <text font-size="2" x="-68.39929" y="99.30791" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Reed, Jack (RI)">
+            Reed, Jack (RI)
+        </text>
+        <text font-size="3" x="98.57211" y="-4.072836" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Reid, Harry (NV)">
+            Reid, Harry (NV)
+        </text>
+        <text font-size="2" x="-77.613075" y="-36.9514" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Roberts, Pat (KS)">
+            Roberts, Pat (KS)
+        </text>
+        <text font-size="2" x="-57.383434" y="131.86871" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Ruppersberger, Dutch (MD)">
+            Ruppersberger, Dutch (MD)
+        </text>
+        <text font-size="3" x="-57.106014" y="-91.24091" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Ryan, Paul (WI)">
+            Ryan, Paul (WI)
+        </text>
+        <text font-size="2" x="-31.149706" y="46.546013" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Schatz, Brian (HI)">
+            Schatz, Brian (HI)
+        </text>
+        <text font-size="2" x="95.91132" y="-62.709675" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Schumer, Charles E (NY)">
+            Schumer, Charles E (NY)
+        </text>
+        <text font-size="3" x="5.762589" y="-48.30331" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Scott, Tim (SC)">
+            Scott, Tim (SC)
+        </text>
+        <text font-size="2" x="-77.69241" y="-21.546291" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Sessions, Pete (TX)">
+            Sessions, Pete (TX)
+        </text>
+        <text font-size="3" x="-23.76921" y="28.235819" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Shaheen, Jeanne (NH)">
+            Shaheen, Jeanne (NH)
+        </text>
+        <text font-size="2" x="-45.726433" y="-1.4373026" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Shuster, Bill (PA)">
+            Shuster, Bill (PA)
+        </text>
+        <text font-size="2" x="76.16782" y="105.7112" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Simpson, Mike (ID)">
+            Simpson, Mike (ID)
+        </text>
+        <text font-size="2" x="-44.821087" y="132.81229" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Smith, Adam (WA)">
+            Smith, Adam (WA)
+        </text>
+        <text font-size="2" x="-52.482807" y="106.963715" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Thornberry, Mac (TX)">
+            Thornberry, Mac (TX)
+        </text>
+        <text font-size="2" x="-127.19804" y="12.444635" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Tierney, John F (MA)">
+            Tierney, John F (MA)
+        </text>
+        <text font-size="3" x="80.037254" y="-85.24862" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Toomey, Pat (PA)">
+            Toomey, Pat (PA)
+        </text>
+        <text font-size="4" x="12.097606" y="-19.682356" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Udall, MarkCO">
+            Udall, MarkCO
+        </text>
+        <text font-size="2" x="-60.969795" y="5.342285" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Udall, Tom (NM)">
+            Udall, Tom (NM)
+        </text>
+        <text font-size="2" x="66.22378" y="-94.314865" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Upton, Fred (MI)">
+            Upton, Fred (MI)
+        </text>
+        <text font-size="2" x="94.02758" y="102.60803" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Valadao, David (CA)">
+            Valadao, David (CA)
+        </text>
+        <text font-size="2" x="-8.822579" y="126.13669" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Visclosky, Pete (IN)">
+            Visclosky, Pete (IN)
+        </text>
+        <text font-size="2" x="-8.912646" y="-90.32686" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Vitter, David (LA)">
+            Vitter, David (LA)
+        </text>
+        <text font-size="2" x="85.371346" y="44.27934" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Walden, Greg (OR)">
+            Walden, Greg (OR)
+        </text>
+        <text font-size="4" x="-14.563627" y="-25.973495" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Warner, MarkVA">
+            Warner, MarkVA
+        </text>
+        <text font-size="2" x="107.79432" y="30.280502" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Waxman, Henry (CA)">
+            Waxman, Henry (CA)
+        </text>
+        <text font-size="2" x="-2.4328218" y="-103.08716" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Whitfield, Ed (KY)">
+            Whitfield, Ed (KY)
+        </text>
+        <text font-size="2" x="-9.831708" y="79.93602" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Williams, Roger (TX)">
+            Williams, Roger (TX)
+        </text>
+        <text font-size="2" x="-69.98532" y="112.32715" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Wittman, Rob (VA)">
+            Wittman, Rob (VA)
+        </text>
+        <text font-size="2" x="-87.156624" y="-46.657516" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Yoder, Kevin (KS)">
+            Yoder, Kevin (KS)
+        </text>
+        <text font-size="4" x="-76.2149" y="66.9136" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Transportation">
+            Transportation
+        </text>
+        <text font-size="4" x="-22.451317" y="-0.14165556" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Single Issue">
+            Single Issue
+        </text>
+        <text font-size="4" x="-12.025497" y="-68.240654" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Other">
+            Other
+        </text>
+        <text font-size="4" x="-54.53687" y="44.366188" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Lawyers Lobbyists">
+            Lawyers Lobbyists
+        </text>
+        <text font-size="4" x="-104.36418" y="39.22861" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Labor">
+            Labor
+        </text>
+        <text font-size="4" x="99.48144" y="-38.50991" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Healthcare">
+            Healthcare
+        </text>
+        <text font-size="4" x="73.13594" y="-62.960907" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Finance">
+            Finance
+        </text>
+        <text font-size="4" x="-33.32694" y="-87.75323" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Energy">
+            Energy
+        </text>
+        <text font-size="4" x="-30.311377" y="103.350815" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Defense">
+            Defense
+        </text>
+        <text font-size="4" x="-99.604164" y="-29.434296" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Construction">
+            Construction
+        </text>
+        <text font-size="4" x="62.850914" y="47.28794" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Communications/Electronics">
+            Communications/Electronics
+        </text>
+        <text font-size="4" x="40.457134" y="-31.491932" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Business">
+            Business
+        </text>
+        <text font-size="4" x="99.86956" y="64.48243" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="Agriculture">
+            Agriculture
+        </text>
+    </g>
+</svg>
